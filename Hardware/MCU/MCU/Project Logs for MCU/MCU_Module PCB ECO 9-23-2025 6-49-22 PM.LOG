@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=-5 Pin=IDC1-10
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Component Designator: OldDesignator=TP1 NewDesignator=3V3
+Change Component Designator: OldDesignator=TP2 NewDesignator=5V
+Change Component Designator: OldDesignator=TP3 NewDesignator=GND
+Added Component: Designator=-5V(Testpoint 50ml)
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=-5V Pin=-5V-1
+Added Pin To Net: NetName=-5V Pin=IDC1-10
+Added Net: Name=-5V
+Added Member To Class: ClassName=MCU Member=Component -5V Testpoint
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1
+Added Rule: Name=Schematic Supply Nets_5

@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=V_SOLAR Pin=D?-1
+Removed Pin From Net: NetName=NetC2_2 Pin=D?-2
+Removed Member From Class: ClassName=Power_supply Member=D?
+Change Component Designator: OldDesignator=C1 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C20
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C22
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C24
+Change Component Designator: OldDesignator=C24 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R11
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R16
+Change Component Designator: OldDesignator=R12 NewDesignator=R18
+Change Component Designator: OldDesignator=R16 NewDesignator=R20
+Change Component Designator: OldDesignator=R18 NewDesignator=R22
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Added Component: Designator=C1(CAP_0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOIC-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://linhkien.cxtvn.com/3834-ru20p7c-mosfet-p-ch-5a-20v-sot-23.html"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_2 Pin=Q3-1
+Added Pin To Net: NetName=NetC2_2 Pin=Q3-2
+Added Pin To Net: NetName=NetC2_2 Pin=Q3-3
+Added Pin To Net: NetName=V_SOLAR Pin=Q3-5
+Added Pin To Net: NetName=V_SOLAR Pin=Q3-6
+Added Pin To Net: NetName=V_SOLAR Pin=Q3-7
+Added Pin To Net: NetName=V_SOLAR Pin=Q3-8
+Added Pin To Net: NetName=NetC2_2 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC16_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC22_1
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=V_SOLAR New Net Name=V_IN
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q3-4
+Added Pin To Net: NetName=NetC1_1 Pin=R7-2
+Added Pin To Net: NetName=NetC1_1 Pin=R8-1
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=Power_supply Member=Component C26 100uF
+Added Member To Class: ClassName=Power_supply Member=Component Q3 AO4407A
+Added Member To Class: ClassName=Power_supply Member=Component R22 68.1k
+Added Member To Class: ClassName=Power_supply Member=Component R23 220

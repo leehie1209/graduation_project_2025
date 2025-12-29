@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=P04 Pin=IDC7-1
+Removed Pin From Net: NetName=IDC_CLK Pin=IDC7-3
+Removed Pin From Net: NetName=IDC_MISO Pin=IDC7-7
+Removed Pin From Net: NetName=IDC_CS Pin=IDC7-9
+Added Pin To Net: NetName=IDC_CS Pin=IDC7-1
+Added Pin To Net: NetName=IDC_MISO Pin=IDC7-3
+Added Pin To Net: NetName=IDC_CLK Pin=IDC7-7
+Added Pin To Net: NetName=P04 Pin=IDC7-9
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

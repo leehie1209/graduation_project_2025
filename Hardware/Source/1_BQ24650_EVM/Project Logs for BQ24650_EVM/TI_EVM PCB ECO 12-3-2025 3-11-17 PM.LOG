@@ -1,0 +1,33 @@
+Add Component: Footprint Not Found JP6-D1T
+Add Component: Footprint Not Found Fuse1A
+Add Component: Footprint Not Found IPD90P03P4L04ATMA2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C1-3
+Add Pin To Net: Unknown Pin: Pin C1-4
+Add Pin To Net: Unknown Pin: Pin C1-5
+Add Pin To Net: Unknown Pin: Pin C1-6
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-17
+Add Class Member: Failed to add class member : Component C1 JP6
+Add Class Member: Failed to add class member : Component F1 F100
+Added Member To Class: ClassName=TI_EVM Member=Component P3 5V
+Added Member To Class: ClassName=TI_EVM Member=Component P4 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P6 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P8 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P10 TP
+Add Class Member: Failed to add class member : Component Q2 SUD50P06-15-GE3

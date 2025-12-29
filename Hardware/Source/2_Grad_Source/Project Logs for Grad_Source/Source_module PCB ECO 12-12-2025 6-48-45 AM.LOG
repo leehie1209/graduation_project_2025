@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Source Member=P17
+Added Pin To Net: NetName=5V-USB Pin=P18-1
+Added Pin To Net: NetName=5V-USB Pin=P18-2
+Added Pin To Net: NetName=5V-USB Pin=P18-3
+Added Pin To Net: NetName=5V-USB Pin=P18-4
+Added Pin To Net: NetName=5V-USB Pin=P18-5
+Added Pin To Net: NetName=5V-USB Pin=P18-6
+Added Member To Class: ClassName=Source Member=Component P14 TP
+Added Member To Class: ClassName=Controller Member=Component P16 USB - TypeC - 16P
+Added Member To Class: ClassName=Controller Member=Component P18 Header 3X2

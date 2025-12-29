@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=Source Member=IC1
+Removed Member From Class: ClassName=Source Member=Q6
+Add Component: Footprint Not Found JP6-D1T
+Added Component: Designator=D6(DIO-SMD-106)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Fuse1A
+Add Component: Footprint Not Found IPD90P03P4L04ATMA2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C1-3
+Add Pin To Net: Unknown Pin: Pin C1-4
+Add Pin To Net: Unknown Pin: Pin C1-5
+Add Pin To Net: Unknown Pin: Pin C1-6
+Added Pin To Net: NetName=5V_F Pin=D6-2
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin P5-A1
+Add Pin To Net: Unknown Pin: Pin P5-A12
+Add Pin To Net: Unknown Pin: Pin P5-B1
+Add Pin To Net: Unknown Pin: Pin P5-B12
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Net: Name=NetD6_1
+Add Class Member: Failed to add class member : Component C1 JP6
+Added Member To Class: ClassName=Controller Member=Component D6 Diode SMD
+Add Class Member: Failed to add class member : Component F1 F100
+Add Class Member: Failed to add class member : Component Q1 SUD50P06-15-GE3

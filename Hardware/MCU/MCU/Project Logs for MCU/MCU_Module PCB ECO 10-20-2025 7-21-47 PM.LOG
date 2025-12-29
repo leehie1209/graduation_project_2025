@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J9 Old Footprint=RES-SMD-0402 New Footprint=RES-SMD-0201
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

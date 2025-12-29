@@ -1,0 +1,21 @@
+Change Component Comment : Designator=3 Old Comment=SRC New Comment=3V3 - 5V
+Change Component Designator: OldDesignator=LED0 NewDesignator=LED_0
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED_1
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED_2
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED_3
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED_4
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED_5
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED_6
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED_7
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=NetLED0_1 New Net Name=NetLED_0_1
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetLED_1_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED_2_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED_3_1
+Change Net Name : Old Net Name=NetLED4_1 New Net Name=NetLED_4_1
+Change Net Name : Old Net Name=NetLED5_1 New Net Name=NetLED_5_1
+Change Net Name : Old Net Name=NetLED6_1 New Net Name=NetLED_6_1
+Change Net Name : Old Net Name=NetLED7_1 New Net Name=NetLED_7_1

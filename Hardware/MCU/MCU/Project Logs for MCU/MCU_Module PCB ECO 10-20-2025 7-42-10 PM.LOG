@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Button02 Pin=C7-2
+Removed Pin From Net: NetName=Button01 Pin=C8-2
+Removed Pin From Net: NetName=Button02 Pin=R3-2
+Removed Pin From Net: NetName=Button01 Pin=R4-2
+Removed Pin From Net: NetName=Button02 Pin=S1-2
+Removed Pin From Net: NetName=Button01 Pin=S2-2
+Added Pin To Net: NetName=Button01 Pin=C7-2
+Added Pin To Net: NetName=Button02 Pin=C8-2
+Added Pin To Net: NetName=Button01 Pin=R3-2
+Added Pin To Net: NetName=Button02 Pin=R4-2
+Added Pin To Net: NetName=Button01 Pin=S1-2
+Added Pin To Net: NetName=Button02 Pin=S2-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=Button01 New Net Name=Button02
+Change Net Name : Old Net Name=Button02 New Net Name=Button01

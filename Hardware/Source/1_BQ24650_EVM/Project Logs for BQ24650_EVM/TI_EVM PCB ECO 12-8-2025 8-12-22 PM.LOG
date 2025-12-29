@@ -1,0 +1,16 @@
+Add Component: Footprint Not Found Fuse1A
+Add Component: Footprint Not Found IPD90P03P4L04ATMA2
+Added Pin To Net: NetName=V_SOLAR Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC1_3 Pin=C1-3
+Added Pin To Net: NetName=GND Pin=C1-4
+Added Pin To Net: NetName=NetC1_5 Pin=C1-5
+Added Pin To Net: NetName=GND Pin=C1-6
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Added Member To Class: ClassName=TI_EVM Member=Component C1 JP6
+Add Class Member: Failed to add class member : Component F1 F100
+Add Class Member: Failed to add class member : Component Q2 SUD50P06-15-GE3

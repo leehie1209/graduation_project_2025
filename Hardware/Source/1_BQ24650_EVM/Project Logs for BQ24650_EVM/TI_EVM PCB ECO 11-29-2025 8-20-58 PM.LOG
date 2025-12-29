@@ -1,0 +1,23 @@
+Add Component: Footprint Not Found JP6-D1T
+Add Component: Footprint Not Found Fuse1A
+Add Component: Footprint Not Found IPD90P03P4L04ATMA2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C1-3
+Add Pin To Net: Unknown Pin: Pin C1-4
+Add Pin To Net: Unknown Pin: Pin C1-5
+Add Pin To Net: Unknown Pin: Pin C1-6
+Added Pin To Net: NetName=5V_F Pin=C25-2
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Added Pin To Net: NetName=5V_F Pin=L3-2
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Added Pin To Net: NetName=5V_F Pin=R22-1
+Change Net Name : Old Net Name=5V_F New Net Name=5V
+Added Pin To Net: NetName=5V_F Pin=F3-1
+Added Net: Name=5V_F
+Add Class Member: Failed to add class member : Component C1 JP6
+Add Class Member: Failed to add class member : Component F1 F100
+Add Class Member: Failed to add class member : Component Q2 SUD50P06-15-GE3

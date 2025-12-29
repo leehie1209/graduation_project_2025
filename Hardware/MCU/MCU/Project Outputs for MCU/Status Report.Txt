@@ -1,0 +1,25 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [MCU.PrjPcb]
+   Generated File[MCU_Module_Copper_Signal_Top.gbr]
+   Generated File[MCU_Module_Copper_Signal_Bot.gbr]
+   Generated File[MCU_Module_Pads_Bot.gbr]
+   Generated File[MCU_Module_Pads_Top.gbr]
+   Generated File[MCU_Module_Legend_Top.gbr]
+   Generated File[MCU_Module_Legend_Bot.gbr]
+   Generated File[MCU_Module_Soldermask_Top.gbr]
+   Generated File[MCU_Module_Soldermask_Bot.gbr]
+   Generated File[MCU_Module_Paste_Top.gbr]
+   Generated File[MCU_Module_Paste_Bot.gbr]
+   Generated File[MCU_Module_Keep-out.gbr]
+   Generated File[MCU_Module_Profile.gbr]
+   Generated File[MCU_Module_NPTH_Drill.gbr]
+   Generated File[MCU_Module_PTH_Drill.gbr]
+   Generated File[MCU_Module.EXTREP]
+   Generated File[MCU_Module.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 10:29:49 AM On 11/12/2025

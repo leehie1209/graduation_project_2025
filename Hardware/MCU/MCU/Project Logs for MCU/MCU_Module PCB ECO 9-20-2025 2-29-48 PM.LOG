@@ -1,0 +1,63 @@
+Change Component Designator: OldDesignator=IDC1 NewDesignator=IDC2
+Change Component Designator: OldDesignator=IDC2 NewDesignator=IDC3
+Change Component Designator: OldDesignator=IDC3 NewDesignator=IDC4
+Change Component Designator: OldDesignator=IDC4 NewDesignator=IDC5
+Change Component Designator: OldDesignator=IDC5 NewDesignator=IDC7
+Change Component Designator: OldDesignator=IDC6 NewDesignator=IDC8
+Change Component Designator: OldDesignator=IDC7 NewDesignator=IDC9
+Added Component: Designator=IDC1(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=J1(RES-SMD-0402)
+Added Component: Designator=J3(Header6)
+Added Component: Designator=J4(Header6)
+Added Component: Designator=P1(Testpoint 50ml)
+Added Component: Designator=P2(Testpoint 50ml)
+Added Component: Designator=P3(Testpoint 50ml)
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=GND Pin=IDC1-1
+Added Pin To Net: NetName=3.3V Pin=IDC1-2
+Added Pin To Net: NetName=GND Pin=IDC1-3
+Added Pin To Net: NetName=3.3V Pin=IDC1-4
+Added Pin To Net: NetName=GND Pin=IDC1-5
+Added Pin To Net: NetName=+5V1 Pin=IDC1-6
+Added Pin To Net: NetName=GND Pin=IDC1-7
+Added Pin To Net: NetName=+5V1 Pin=IDC1-8
+Added Pin To Net: NetName=GND Pin=IDC1-9
+Added Pin To Net: NetName=-5 Pin=IDC1-10
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-4
+Add Pin To Net: Unknown Pin: Pin J4-5
+Add Pin To Net: Unknown Pin: Pin J4-6
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P4-0
+Added Member To Class: ClassName=MCU Member=Component IDC1
+Added Member To Class: ClassName=MCU Member=Component IDC7
+Added Member To Class: ClassName=MCU Member=Component IDC8
+Added Member To Class: ClassName=MCU Member=Component IDC9
+Add Class Member: Failed to add class member : Component J1 Jumper2
+Add Class Member: Failed to add class member : Component J3 Header6
+Add Class Member: Failed to add class member : Component J4 Header6
+Add Class Member: Failed to add class member : Component P1 TP
+Add Class Member: Failed to add class member : Component P2 TP
+Add Class Member: Failed to add class member : Component P3 TP
+Add Class Member: Failed to add class member : Component VIT1 1
+Add Class Member: Failed to add class member : Component VIT2 1
+Add Class Member: Failed to add class member : Component VIT3 1
+Add Class Member: Failed to add class member : Component VIT4 1
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

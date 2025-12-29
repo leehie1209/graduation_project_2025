@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=V_SYS Pin=R14-2
+Added Member To Class: ClassName=Source Member=Component D2 Diode Schottky
+Added Member To Class: ClassName=Source Member=Component D3 LED
+Added Member To Class: ClassName=Source Member=Component D4 LED
+Added Member To Class: ClassName=Source Member=Component D5 SS34-HF

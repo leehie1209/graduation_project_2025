@@ -1,0 +1,4 @@
+Change Component Comment : Designator=Q2 Old Comment=SI2302 New Comment=IRLML2502
+Change Component Comment : Designator=Q3 Old Comment=SI2302 New Comment=IRLML2502
+Added Pin To Net: NetName=VCC Pin=BT1-1
+Added Pin To Net: NetName=VCC Pin=U1-5

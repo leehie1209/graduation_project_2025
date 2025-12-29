@@ -1,0 +1,44 @@
+Change Footprint: Cannot match pads with new footprint in component :C2 Footprint:CAP_0603
+Change Footprint: Cannot match pads with new footprint in component :C3 Footprint:CAP_0603
+Change Footprint: Cannot match pads with new footprint in component :C4 Footprint:CAP_0603
+Change Footprint: Cannot match pads with new footprint in component :C5 Footprint:CAP_0603
+Change Footprint: Cannot match pads with new footprint in component :R1 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R2 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R3 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R4 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R5 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R6 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R7 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R8 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R9 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R10 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R11 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R12 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R13 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R14 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R15 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R16 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R17 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R18 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R19 Footprint:RES-SMD-0603
+Change Footprint: Cannot match pads with new footprint in component :R20 Footprint:RES-SMD-0603
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Component Comment : Designator=R9 Old Comment=Resistor - SMD New Comment=0R
+Change Component Comment : Designator=R13 Old Comment=Resistor - SMD New Comment=0R
+Change Component Comment : Designator=R1 Old Comment=Resistor - SMD New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=Resistor - SMD New Comment=10k
+Change component parameters: Designator = "VIT1" ("VIT1"); Footprint = "Screw Hole 4mm"; UniqueID = "\YVUNUQCH" ("\YVUNUQCH")
+Change component parameters: Designator = "VIT2" ("VIT2"); Footprint = "Screw Hole 4mm"; UniqueID = "\NRMTZQWC" ("\NRMTZQWC")
+Change component parameters: Designator = "VIT3" ("VIT3"); Footprint = "Screw Hole 4mm"; UniqueID = "\XVRKYIOH" ("\XVRKYIOH")
+Change component parameters: Designator = "VIT4" ("VIT4"); Footprint = "Screw Hole 4mm"; UniqueID = "\XSLBETND" ("\XSLBETND")
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Member To Class: ClassName=MCU Member=Component P1 Cell Coin
+Added Member To Class: ClassName=MCU Member=Component TP1 Testpoint
+Added Member To Class: ClassName=MCU Member=Component TP2 Testpoint
+Added Member To Class: ClassName=MCU Member=Component U4 SD_CARD
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

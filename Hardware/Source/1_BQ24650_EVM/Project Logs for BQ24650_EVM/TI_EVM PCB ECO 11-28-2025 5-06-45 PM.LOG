@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R15 NewDesignator=R12
+Add Component: Footprint Not Found JP6-D1T
+Add Component: Footprint Not Found Fuse1A
+Add Component: Footprint Not Found IPD90P03P4L04ATMA2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C1-3
+Add Pin To Net: Unknown Pin: Pin C1-4
+Add Pin To Net: Unknown Pin: Pin C1-5
+Add Pin To Net: Unknown Pin: Pin C1-6
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR11_2
+Add Class Member: Failed to add class member : Component C1 JP6
+Add Class Member: Failed to add class member : Component F1 F100
+Add Class Member: Failed to add class member : Component Q2 SUD50P06-15-GE3

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=VIT1 Old Footprint=VIT_3.7mm New Footprint=Screw Hole 4mm
+Change Component Footprint: Designator=VIT2 Old Footprint=VIT_3.7mm New Footprint=Screw Hole 4mm
+Change Component Footprint: Designator=VIT3 Old Footprint=VIT_3.7mm New Footprint=Screw Hole 4mm
+Change Component Footprint: Designator=VIT4 Old Footprint=VIT_3.7mm New Footprint=Screw Hole 4mm
+Change Pin Designator/Name:  Old Designator=U1-3 Old Name=D15 New Designator =D4 New Name=5
+Change Pin Designator/Name:  Old Designator=U1-5 Old Name=D4 New Designator =D15 New Name=3

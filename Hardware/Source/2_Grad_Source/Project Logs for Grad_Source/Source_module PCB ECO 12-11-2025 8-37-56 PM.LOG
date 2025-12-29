@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=P14 NewDesignator=P15
+Change Component Designator: OldDesignator=P15 NewDesignator=P16
+Change Component Designator: OldDesignator=P16 NewDesignator=P17
+Change Component Designator: OldDesignator=P17 NewDesignator=P18
+Change Component Designator: OldDesignator=P18 NewDesignator=P19
+Added Component: Designator=P14(Testpoint 50ml)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V-USB Pin=P14-1
+Change Net Name : Old Net Name=NetP15_A5 New Net Name=NetP16_A5
+Change Net Name : Old Net Name=NetP15_B5 New Net Name=NetP16_B5
+Added Member To Class: ClassName=Source Member=Component P14 TP
+Added Member To Class: ClassName=Source Member=Component P15 Header 8
+Added Member To Class: ClassName=Controller Member=Component P17 Header 12X2
+Added Member To Class: ClassName=Controller Member=Component P19 Header 2X2

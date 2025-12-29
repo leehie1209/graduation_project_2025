@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetRN1_1 Pin=RN1-1
+Removed Pin From Net: NetName=NetRN1_1 Pin=RN1-2
+Removed Pin From Net: NetName=NetRN1_1 Pin=RN1-3
+Removed Pin From Net: NetName=NetRN1_1 Pin=RN1-4
+Removed Pin From Net: NetName=NetD5_1 Pin=RN1-5
+Removed Pin From Net: NetName=NetD4_1 Pin=RN1-6
+Removed Pin From Net: NetName=NetD3_1 Pin=RN1-7
+Removed Pin From Net: NetName=NetD2_1 Pin=RN1-8
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=NetD5_1 Pin=RN1-1
+Added Pin To Net: NetName=NetD4_1 Pin=RN1-2
+Added Pin To Net: NetName=NetD3_1 Pin=RN1-3
+Added Pin To Net: NetName=NetD2_1 Pin=RN1-4
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-5
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-6
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-7
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-8
+Change Net Name : Old Net Name=NetRN1_1 New Net Name=NetRN1_5
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

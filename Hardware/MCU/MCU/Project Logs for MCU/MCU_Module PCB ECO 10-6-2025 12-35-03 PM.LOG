@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=1 NewDesignator=3
+Change Component Designator: OldDesignator=2 NewDesignator=1
+Change Component Designator: OldDesignator=3 NewDesignator=2
+Change Component Designator: OldDesignator=C1 NewDesignator=C9
+Change Component Designator: OldDesignator=C2 NewDesignator=C10
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=FB2 NewDesignator=FB5
+Change Component Designator: OldDesignator=FB3 NewDesignator=FB6
+Change Component Designator: OldDesignator=FB4 NewDesignator=FB2
+Change Component Designator: OldDesignator=FB5 NewDesignator=FB3
+Change Component Designator: OldDesignator=FB6 NewDesignator=FB4
+Change Component Designator: OldDesignator=IDC4 NewDesignator=IDC5
+Change Component Designator: OldDesignator=IDC5 NewDesignator=IDC6
+Change Component Designator: OldDesignator=IDC6 NewDesignator=IDC4
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC3_2

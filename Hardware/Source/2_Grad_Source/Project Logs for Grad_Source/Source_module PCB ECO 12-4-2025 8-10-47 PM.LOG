@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D6 Old Footprint=DIO-SMD-106 New Footprint=DIO-214AA(SMB)
+Change Component Comment : Designator=D6 Old Comment=Diode SMD New Comment=Diode Schottky
+Change component parameters: Designator = "D6" ("D6"); Footprint = "DIO-SMD-106"; UniqueID = "\VTUOKWEV" ("\VTUOKWEV")

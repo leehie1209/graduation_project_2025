@@ -1,0 +1,17 @@
+Added Component: Designator=LED(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED Pin=IC1-17
+Added Pin To Net: NetName=Touch1 Pin=IC1-31
+Added Pin To Net: NetName=Touch2 Pin=IC1-33
+Added Pin To Net: NetName=LED Pin=LED-1
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=NetLED_2 Pin=LED-2
+Added Pin To Net: NetName=NetLED_2 Pin=R44-1
+Added Net: Name=NetLED_2
+Added Member To Class: ClassName=Controller Member=Component LED Testing
+Added Member To Class: ClassName=Controller Member=Component R44 220

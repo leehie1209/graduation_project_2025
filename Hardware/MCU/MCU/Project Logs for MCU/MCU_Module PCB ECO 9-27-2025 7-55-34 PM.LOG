@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3.3V Pin=R5-1
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Component Comment : Designator=R5 Old Comment=10k New Comment=15k
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=+5V1 Pin=R5-1
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

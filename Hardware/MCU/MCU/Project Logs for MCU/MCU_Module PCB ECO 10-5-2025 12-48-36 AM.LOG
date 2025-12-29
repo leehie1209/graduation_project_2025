@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=GND Pin=J5-2
+Change Component Designator: OldDesignator=-? NewDesignator=-1
+Change Component Designator: OldDesignator=3 NewDesignator=1
+Change Component Designator: OldDesignator=? NewDesignator=2
+Change Component Designator: OldDesignator=? NewDesignator=3
+Added Component: Designator=FB6(RES-SMD-0603)
+Added Pin To Net: NetName=NetFB5_1 Pin=FB6-1
+Added Pin To Net: NetName=GND Pin=FB6-2
+Added Pin To Net: NetName=NetFB5_1 Pin=J4-2
+Added Pin To Net: NetName=NetFB5_1 Pin=J5-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=NetFB5_1 New Net Name=GND_MCU
+Added Member To Class: ClassName=MCU Member=Component -1 -5V
+Added Member To Class: ClassName=MCU Member=Component 2 5V
+Added Member To Class: ClassName=MCU Member=Component 3 3V3
+Added Member To Class: ClassName=MCU Member=Component FB6 Ferrit Bead

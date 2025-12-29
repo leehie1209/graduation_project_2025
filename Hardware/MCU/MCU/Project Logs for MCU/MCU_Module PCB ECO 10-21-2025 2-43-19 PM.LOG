@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5V2 Pin=J9-1
+Removed Pin From Net: NetName=+5V2 Pin=SOURCE_SIG-8
+Change Component Comment : Designator=1 Old Comment=5V New Comment=3V3 - 5V
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=+5V1 New Net Name=+5V
+Change Net Name : Old Net Name=+5V2 New Net Name=3V3 - 5V
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Added Pin To Net: NetName=V_BAT Pin=J9-1
+Added Pin To Net: NetName=V_BAT Pin=SOURCE_SIG-8
+Added Net: Name=V_BAT
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9

@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=+5V1 Pin=IDC1-6
+Removed Pin From Net: NetName=+5V1 Pin=IDC1-8
+Removed Pin From Net: NetName=+5V1 Pin=TP2-1
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Added Component: Designator=C2(CAP_0603)
+Added Component: Designator=C3(CAP_0603)
+Added Component: Designator=C4(CAP_7343)
+Added Component: Designator=C5(CAP_7343)
+Added Component: Designator=F1(RES-SMD-1812)
+Added Component: Designator=J3(RES-SMD-0402)
+Added Component: Designator=U2(SOT-89-3)
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Website"; Value = "http://group3i.net"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=+5V1 Pin=C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Added Pin To Net: NetName=+5V1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+5V1 Pin=D1-2
+Add Pin To Net: Unknown Pin: Pin F1-2
+Added Pin To Net: NetName=+5V1 Pin=J1-1
+Added Pin To Net: NetName=3.3V Pin=J2-2
+Added Pin To Net: NetName=3.3V Pin=J3-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=+5V1 Pin=U2-3
+Change Net Name : Old Net Name=+5V1 New Net Name=VIN
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC8_2
+Added Pin To Net: NetName=NetC3_2 Pin=C5-1
+Added Pin To Net: NetName=NetC3_2 Pin=J3-1
+Added Pin To Net: NetName=NetC3_2 Pin=U2-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetF1_1 Pin=IDC1-6
+Added Pin To Net: NetName=NetF1_1 Pin=IDC1-8
+Added Pin To Net: NetName=NetF1_1 Pin=TP2-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-30
+Added Net: Name=NetJ1_2
+Added Member To Class: ClassName=MCU Member=Component C6 104
+Added Member To Class: ClassName=MCU Member=Component C7 104
+Added Member To Class: ClassName=MCU Member=Component C8 104
+Added Member To Class: ClassName=MCU Member=Component C9 104
+Add Class Member: Failed to add class member : Component F1 F1A
+Added Member To Class: ClassName=MCU Member=Component J6 Header6
+Added Member To Class: ClassName=MCU Member=Component U6 DS3231 SMD
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1
+Added Rule: Name=Schematic Supply Nets_5

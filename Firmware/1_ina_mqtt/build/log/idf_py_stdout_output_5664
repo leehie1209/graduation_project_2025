@@ -1,0 +1,86 @@
+[1/10] Performing build step for 'bootloader'
+[1/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\HUST\20251-Thelastdance\Graduation\Firmware\1_ina_mqtt\build\bootloader\esp-idf\esptool_py && C:\Users\ASUS\Espressif\python_env\idf5.4_py3.11_env\Scripts\python.exe C:/user/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build/bootloader/bootloader.bin"
+Bootloader binary size 0x6560 bytes. 0xaa0 bytes (9%) free.
+[2/10] No install step for 'bootloader'
+[3/10] Completed 'bootloader'
+[4/10] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mqtt/mqtt.c.obj
+[5/10] Linking C static library esp-idf\main\libmain.a
+[6/10] Generating ld/sections.ld
+[7/10] Linking CXX executable 1_ina_mqtt.elf
+[8/10] Generating binary image from built executable
+esptool.py v4.8.1
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build/1_ina_mqtt.bin
+[9/10] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\HUST\20251-Thelastdance\Graduation\Firmware\1_ina_mqtt\build\esp-idf\esptool_py && C:\Users\ASUS\Espressif\python_env\idf5.4_py3.11_env\Scripts\python.exe C:/user/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build/partition_table/partition-table.bin D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build/1_ina_mqtt.bin"
+1_ina_mqtt.bin binary size 0xdc810 bytes. Smallest app partition is 0x100000 bytes. 0x237f0 bytes (14%) free.
+[9/10] C:\WINDOWS\system32\cmd.exe /C "cd /D C:\user\esp-idf\components\esptool_py && C:\Users\ASUS\Espressif\tools\cmake\3.30.2\bin\cmake.exe -D IDF_PATH=C:/user/esp-idf -D SERIAL_TOOL=C:/Users/ASUS/Espressif/python_env/idf5.4_py3.11_env/Scripts/python.exe;;C:/user/esp-idf/components/esptool_py/esptool/esptool.py;--chip;esp32 -D SERIAL_TOOL_ARGS=--before=default_reset;--after=hard_reset;write_flash;@flash_args -D WORKING_DIRECTORY=D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build -P C:/user/esp-idf/components/esptool_py/run_serial_tool.cmake"
+esptool.py --chip esp32 -p COM5 -b 460800 --before=default_reset --after=hard_reset write_flash --flash_mode dio --flash_freq 40m --flash_size 2MB 0x1000 bootloader/bootloader.bin 0x10000 1_ina_mqtt.bin 0x8000 partition_table/partition-table.bin
+esptool.py v4.8.1
+Serial port COM5
+Connecting....
+Chip is ESP32-D0WD-V3 (revision v3.1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse, Coding Scheme None
+WARNING: Detected crystal freq 41.13MHz is quite different to normalized freq 40MHz. Unsupported crystal in use?
+Crystal is 40MHz
+MAC: d4:8a:fc:99:17:04
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00001000 to 0x00007fff...
+Flash will be erased from 0x00010000 to 0x000ecfff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+SHA digest in image updated
+Compressed 25952 bytes to 16368...
+Writing at 0x00001000... (100 %)
+Wrote 25952 bytes (16368 compressed) at 0x00001000 in 0.5 seconds (effective 395.5 kbit/s)...
+Hash of data verified.
+Compressed 903184 bytes to 567251...
+Writing at 0x00010000... (2 %)
+Writing at 0x0001d6ba... (5 %)
+Writing at 0x00027534... (8 %)
+Writing at 0x00030e1c... (11 %)
+Writing at 0x000366a3... (14 %)
+Writing at 0x0003c53e... (17 %)
+Writing at 0x0004254a... (20 %)
+Writing at 0x000482fb... (22 %)
+Writing at 0x0004de3e... (25 %)
+Writing at 0x00053d47... (28 %)
+Writing at 0x0005a460... (31 %)
+Writing at 0x000601c5... (34 %)
+Writing at 0x00065ed8... (37 %)
+Writing at 0x0006b239... (40 %)
+Writing at 0x000704a4... (42 %)
+Writing at 0x00075cd9... (45 %)
+Writing at 0x0007b456... (48 %)
+Writing at 0x0008079b... (51 %)
+Writing at 0x00085d10... (54 %)
+Writing at 0x0008bae2... (57 %)
+Writing at 0x00091667... (60 %)
+Writing at 0x00096f88... (62 %)
+Writing at 0x0009cc06... (65 %)
+Writing at 0x000a29b7... (68 %)
+Writing at 0x000a81d5... (71 %)
+Writing at 0x000adf54... (74 %)
+Writing at 0x000b39d4... (77 %)
+Writing at 0x000b9435... (80 %)
+Writing at 0x000c2c97... (82 %)
+Writing at 0x000ca618... (85 %)
+Writing at 0x000d012c... (88 %)
+Writing at 0x000d7ee2... (91 %)
+Writing at 0x000dd903... (94 %)
+Writing at 0x000e3d75... (97 %)
+Writing at 0x000e908c... (100 %)
+Wrote 903184 bytes (567251 compressed) at 0x00010000 in 12.9 seconds (effective 558.7 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 103...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (103 compressed) at 0x00008000 in 0.0 seconds (effective 1455.8 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...

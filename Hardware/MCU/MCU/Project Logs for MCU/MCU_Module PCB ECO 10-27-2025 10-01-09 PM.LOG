@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=IDC_CLK Pin=SPI-1
+Removed Pin From Net: NetName=IDC_CS Pin=SPI-2
+Removed Pin From Net: NetName=IDC_MOSI Pin=SPI-3
+Removed Pin From Net: NetName=IDC_MISO Pin=SPI-5
+Added Pin To Net: NetName=IDC_MOSI Pin=SPI-1
+Added Pin To Net: NetName=IDC_MISO Pin=SPI-2
+Added Pin To Net: NetName=IDC_CLK Pin=SPI-3
+Added Pin To Net: NetName=IDC_CS Pin=SPI-5
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

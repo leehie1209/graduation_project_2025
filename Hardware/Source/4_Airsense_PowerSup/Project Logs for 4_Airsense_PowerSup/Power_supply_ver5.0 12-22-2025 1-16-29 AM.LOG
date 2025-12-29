@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=-5V Pin=P1-2
+Added Pin To Net: NetName=-5V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=Power_supply Member=Component R7 0R
+Added Member To Class: ClassName=Power_supply Member=Component R9 10R
+Added Member To Class: ClassName=Power_supply Member=Component R12 249k
+Added Member To Class: ClassName=Power_supply Member=Component R16 24.9k
+Added Member To Class: ClassName=Power_supply Member=Component R20 47k
+Added Member To Class: ClassName=Power_supply Member=Component R22 200k
+Added Member To Class: ClassName=Power_supply Member=Component R23 68.1k

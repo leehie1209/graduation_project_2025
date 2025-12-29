@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=I2CSW_SCL Pin=U4-14
+Removed Pin From Net: NetName=I2CSW_SDA Pin=U4-15
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Comment: Unknown Component : U4
+Change component parameters: Component "U4" not found
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Pin To Net: Unknown Pin: Pin U4-14
+Add Pin To Net: Unknown Pin: Pin U4-15
+Added Member To Class: ClassName=MCU Member=Component -5V Testpoint
+Added Member To Class: ClassName=MCU Member=Component 3V3 Testpoint
+Added Member To Class: ClassName=MCU Member=Component 5V Testpoint
+Add Class Member: Failed to add class member : Component U4 PCF8574
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

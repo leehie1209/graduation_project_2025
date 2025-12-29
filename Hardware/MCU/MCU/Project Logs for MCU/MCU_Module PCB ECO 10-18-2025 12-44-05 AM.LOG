@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C3-2
+Change Component Footprint: Designator=C3 Old Footprint=CAP_0603 New Footprint=CAP_7343
+Change Component Comment : Designator=C3 Old Comment=104 New Comment=CAP_TAN_SMD
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP_0603"; UniqueID = "\EAKYPYKT" ("\EAKYPYKT")
+Added Pin To Net: NetName=NetC3_2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC3_1

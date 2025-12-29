@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=Button Pin=IDC2-7
+Removed Pin From Net: NetName=Button Pin=U3-11
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=Button Pin=IDC8-2
+Added Pin To Net: NetName=Button Pin=U3-17
+Added Pin To Net: NetName=P07 Pin=IDC2-7
+Added Pin To Net: NetName=P07 Pin=U3-11
+Added Net: Name=P07
+Added Member To Class: ClassName=MCU Member=Component C9 104
+Added Member To Class: ClassName=MCU Member=Component C10 104
+Added Member To Class: ClassName=MCU Member=Component R5 10k
+Added Member To Class: ClassName=MCU Member=Component R7 0R
+Added Member To Class: ClassName=MCU Member=Component R8 0R
+Added Member To Class: ClassName=MCU Member=Component R10 4.7k
+Added Member To Class: ClassName=MCU Member=Component R11 0R
+Added Member To Class: ClassName=MCU Member=Component R13 0R
+Added Member To Class: ClassName=MCU Member=Component R15 4.7k
+Added Member To Class: ClassName=MCU Member=Component R17 4.7k
+Added Member To Class: ClassName=MCU Member=Component R19 4.7k
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SDA_1 Pin=IC1-8
+Added Pin To Net: NetName=SCL_1 Pin=IC1-9
+Added Pin To Net: NetName=SDA_2 Pin=IC1-12
+Added Pin To Net: NetName=SCL_2 Pin=IC1-13
+Added Pin To Net: NetName=ADC Pin=IC1-16
+Added Pin To Net: NetName=UART_RX Pin=IC1-27
+Added Pin To Net: NetName=UART_TX Pin=IC1-28
+Added Pin To Net: NetName=SCL_2 Pin=R29-2

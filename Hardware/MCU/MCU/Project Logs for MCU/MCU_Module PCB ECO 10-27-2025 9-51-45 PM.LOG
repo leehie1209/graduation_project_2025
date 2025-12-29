@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=P15 Pin=ADC-1
+Removed Pin From Net: NetName=VP Pin=ADC-2
+Removed Pin From Net: NetName=P16 Pin=ADC-3
+Removed Pin From Net: NetName=VN Pin=ADC-4
+Removed Pin From Net: NetName=P17 Pin=ADC-5
+Removed Pin From Net: NetName=PWM_01 Pin=ADC-6
+Removed Pin From Net: NetName=PWM_02 Pin=ADC-8
+Added Pin To Net: NetName=PWM_01 Pin=ADC-1
+Added Pin To Net: NetName=PWM_02 Pin=ADC-2
+Added Pin To Net: NetName=VN Pin=ADC-3
+Added Pin To Net: NetName=VP Pin=ADC-5
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

@@ -1,0 +1,588 @@
+Added Component: Designator=C1(CAP_0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_7343)
+Added Component: Designator=C4(CAP_7343)
+Added Component: Designator=C5(CAP_0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=D1(D1A)
+Added Component: Designator=D2(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=D9(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=DIO1(DIO-SMD-106)
+Added Component: Designator=IDC1(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=IDC2(IDC10-BH)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=IDC3(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=IDC4(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=IDC5(IDC10-BH)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=IDC6(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=IDC7(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=IDC8(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=IDC?(IDC10)
+Add component (AddParameter): Name = "Value"; Value = "Header 5x2"; VariantName = "[No Variations]"
+Added Component: Designator=J1(RES-SMD-0402)
+Added Component: Designator=J2(JP2)
+Add component (AddParameter): Name = "Value"; Value = "JP 2"; VariantName = "[No Variations]"
+Added Component: Designator=JDC1(DC-IN)
+Added Component: Designator=JP1(JP6)
+Added Component: Designator=P1(Testpoint 50ml)
+Added Component: Designator=P2(Testpoint 50ml)
+Added Component: Designator=P3(Testpoint 50ml)
+Added Component: Designator=P4(SD)
+Added Component: Designator=P5(JP6)
+Added Component: Designator=P6(S8411 - 45R)
+Added Component: Designator=R1(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=RN1(RN4_Dual)
+Added Component: Designator=RN2(RN4_Dual)
+Added Component: Designator=SW1(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found ESP32 Module 30GPIO_v3
+Added Component: Designator=U2(SOT-89-3)
+Added Component: Designator=U3(SOIC24)
+Added Component: Designator=U4(SOIC16)
+Added Component: Designator=U5(SOIC16)
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VIN Pin=C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Button01 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=Button02 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=3.3V Pin=C9-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=P3 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=P2 Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=P1 Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=P0 Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=P4 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=P5 Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=P6 Pin=D8-2
+Added Pin To Net: NetName=P7 Pin=D9-2
+Add Pin To Net: Unknown Pin: Pin DIO1-2
+Added Pin To Net: NetName=RX_0 Pin=IDC1-1
+Added Pin To Net: NetName=3.3V Pin=IDC1-2
+Added Pin To Net: NetName=TX_0 Pin=IDC1-3
+Added Pin To Net: NetName=VIN Pin=IDC1-4
+Added Pin To Net: NetName=P07 Pin=IDC1-5
+Added Pin To Net: NetName=VIN Pin=IDC1-6
+Added Pin To Net: NetName=P06 Pin=IDC1-7
+Added Pin To Net: NetName=VIN Pin=IDC1-8
+Added Pin To Net: NetName=GND Pin=IDC1-9
+Added Pin To Net: NetName=VIN Pin=IDC1-10
+Added Pin To Net: NetName=GND Pin=IDC2-1
+Added Pin To Net: NetName=VIN Pin=IDC2-2
+Added Pin To Net: NetName=GND Pin=IDC2-3
+Added Pin To Net: NetName=VIN Pin=IDC2-4
+Added Pin To Net: NetName=GND Pin=IDC2-5
+Added Pin To Net: NetName=VIN Pin=IDC2-6
+Added Pin To Net: NetName=GND Pin=IDC2-7
+Added Pin To Net: NetName=VIN Pin=IDC2-8
+Added Pin To Net: NetName=GND Pin=IDC2-9
+Added Pin To Net: NetName=-5 Pin=IDC2-10
+Added Pin To Net: NetName=I2CSW_SDA Pin=IDC3-1
+Added Pin To Net: NetName=GND Pin=IDC3-2
+Added Pin To Net: NetName=I2CSW_SCL Pin=IDC3-3
+Added Pin To Net: NetName=GND Pin=IDC3-4
+Added Pin To Net: NetName=VIN Pin=IDC3-5
+Added Pin To Net: NetName=VIN Pin=IDC3-6
+Added Pin To Net: NetName=WDT_RESET Pin=IDC3-7
+Added Pin To Net: NetName=VIN Pin=IDC3-8
+Added Pin To Net: NetName=WDT_PWM Pin=IDC3-9
+Added Pin To Net: NetName=3.3V Pin=IDC3-10
+Added Pin To Net: NetName=RX/RO Pin=IDC4-1
+Added Pin To Net: NetName=3.3V Pin=IDC4-2
+Added Pin To Net: NetName=DE/RE Pin=IDC4-3
+Added Pin To Net: NetName=VIN Pin=IDC4-4
+Added Pin To Net: NetName=DE/RE Pin=IDC4-5
+Added Pin To Net: NetName=VIN Pin=IDC4-6
+Added Pin To Net: NetName=TX/DI Pin=IDC4-7
+Added Pin To Net: NetName=VIN Pin=IDC4-8
+Added Pin To Net: NetName=GND Pin=IDC4-9
+Added Pin To Net: NetName=VIN Pin=IDC4-10
+Added Pin To Net: NetName=I2CHW_SCL Pin=IDC5-1
+Added Pin To Net: NetName=GND Pin=IDC5-2
+Added Pin To Net: NetName=I2CHW_SDA Pin=IDC5-3
+Added Pin To Net: NetName=GND Pin=IDC5-4
+Added Pin To Net: NetName=P15 Pin=IDC5-5
+Added Pin To Net: NetName=-5 Pin=IDC5-6
+Added Pin To Net: NetName=P14 Pin=IDC5-7
+Added Pin To Net: NetName=VIN Pin=IDC5-8
+Added Pin To Net: NetName=P13 Pin=IDC5-9
+Added Pin To Net: NetName=3.3V Pin=IDC5-10
+Added Pin To Net: NetName=VIN Pin=IDC6-1
+Added Pin To Net: NetName=3.3V Pin=IDC6-2
+Added Pin To Net: NetName=GND Pin=IDC6-3
+Added Pin To Net: NetName=PWM_01 Pin=IDC6-4
+Added Pin To Net: NetName=P04 Pin=IDC6-5
+Added Pin To Net: NetName=PWM_02 Pin=IDC6-6
+Added Pin To Net: NetName=P03 Pin=IDC6-7
+Added Pin To Net: NetName=P00 Pin=IDC6-8
+Added Pin To Net: NetName=P02 Pin=IDC6-9
+Added Pin To Net: NetName=P01 Pin=IDC6-10
+Added Pin To Net: NetName=P05 Pin=IDC7-1
+Added Pin To Net: NetName=P17 Pin=IDC7-2
+Added Pin To Net: NetName=IDC_CS Pin=IDC7-3
+Added Pin To Net: NetName=P16 Pin=IDC7-4
+Added Pin To Net: NetName=IDC_MISO Pin=IDC7-5
+Added Pin To Net: NetName=VIN Pin=IDC7-6
+Added Pin To Net: NetName=IDC_MOSI Pin=IDC7-7
+Added Pin To Net: NetName=3.3V Pin=IDC7-8
+Added Pin To Net: NetName=IDC_CLK Pin=IDC7-9
+Added Pin To Net: NetName=GND Pin=IDC7-10
+Added Pin To Net: NetName=-5 Pin=IDC8-1
+Added Pin To Net: NetName=VIN Pin=IDC8-3
+Added Pin To Net: NetName=GND Pin=IDC8-5
+Added Pin To Net: NetName=P10 Pin=IDC8-6
+Added Pin To Net: NetName=I2CHW_SDA Pin=IDC8-7
+Added Pin To Net: NetName=P11 Pin=IDC8-8
+Added Pin To Net: NetName=I2CHW_SCL Pin=IDC8-9
+Added Pin To Net: NetName=P12 Pin=IDC8-10
+Added Pin To Net: NetName=I2CHW_SCL Pin=IDC?-1
+Added Pin To Net: NetName=GND Pin=IDC?-2
+Added Pin To Net: NetName=I2CHW_SDA Pin=IDC?-3
+Added Pin To Net: NetName=GND Pin=IDC?-4
+Added Pin To Net: NetName=P15 Pin=IDC?-5
+Added Pin To Net: NetName=-5 Pin=IDC?-6
+Added Pin To Net: NetName=P14 Pin=IDC?-7
+Added Pin To Net: NetName=VIN Pin=IDC?-8
+Added Pin To Net: NetName=P13 Pin=IDC?-9
+Added Pin To Net: NetName=3.3V Pin=IDC?-10
+Add Pin To Net: Unknown Pin: Pin J1-1
+Added Pin To Net: NetName=3.3V Pin=J2-2
+Add Pin To Net: Unknown Pin: Pin JDC1-2
+Add Pin To Net: Unknown Pin: Pin JP1-1
+Add Pin To Net: Unknown Pin: Pin JP1-2
+Add Pin To Net: Unknown Pin: Pin JP1-3
+Add Pin To Net: Unknown Pin: Pin JP1-4
+Add Pin To Net: Unknown Pin: Pin JP1-5
+Add Pin To Net: Unknown Pin: Pin JP1-6
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P4-0
+Added Pin To Net: NetName=SD_CS Pin=P4-2
+Added Pin To Net: NetName=SD_MOSI Pin=P4-3
+Added Pin To Net: NetName=3.3V Pin=P4-4
+Added Pin To Net: NetName=SD_CLK Pin=P4-5
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Pin To Net: NetName=SD_MISO Pin=P4-7
+Add Pin To Net: Unknown Pin: Pin P5-3
+Add Pin To Net: Unknown Pin: Pin P5-4
+Add Pin To Net: Unknown Pin: Pin P5-5
+Add Pin To Net: Unknown Pin: Pin P5-6
+Added Pin To Net: NetName=GND Pin=P6-N
+Added Pin To Net: NetName=3.3V Pin=R1-1
+Added Pin To Net: NetName=Button01 Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=R2-1
+Added Pin To Net: NetName=Button02 Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=3.3V Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=3.3V Pin=R6-1
+Added Pin To Net: NetName=PCF_SDA Pin=R6-2
+Added Pin To Net: NetName=3.3V Pin=R7-1
+Added Pin To Net: NetName=PCF_SCL Pin=R7-2
+Added Pin To Net: NetName=3.3V Pin=R8-1
+Added Pin To Net: NetName=3.3V Pin=R10-2
+Added Pin To Net: NetName=3.3V Pin=R11-2
+Added Pin To Net: NetName=3.3V Pin=R12-2
+Added Pin To Net: NetName=3.3V Pin=R13-1
+Added Pin To Net: NetName=3.3V Pin=R14-1
+Added Pin To Net: NetName=SD_CS Pin=R14-2
+Added Pin To Net: NetName=3.3V Pin=R15-1
+Added Pin To Net: NetName=SD_MOSI Pin=R15-2
+Added Pin To Net: NetName=3.3V Pin=R16-1
+Added Pin To Net: NetName=SD_CLK Pin=R16-2
+Added Pin To Net: NetName=3.3V Pin=R17-1
+Added Pin To Net: NetName=SD_MISO Pin=R17-2
+Added Pin To Net: NetName=3.3V Pin=R18-1
+Added Pin To Net: NetName=I2CSW_SCL Pin=R18-2
+Added Pin To Net: NetName=3.3V Pin=R19-1
+Added Pin To Net: NetName=I2CSW_SDA Pin=R19-2
+Added Pin To Net: NetName=3.3V Pin=R20-1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-1
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-2
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-3
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-4
+Added Pin To Net: NetName=NetD5_1 Pin=RN1-5
+Added Pin To Net: NetName=NetD4_1 Pin=RN1-6
+Added Pin To Net: NetName=NetD3_1 Pin=RN1-7
+Added Pin To Net: NetName=NetD2_1 Pin=RN1-8
+Added Pin To Net: NetName=NetRN1_1 Pin=RN2-1
+Added Pin To Net: NetName=NetRN1_1 Pin=RN2-2
+Added Pin To Net: NetName=NetRN1_1 Pin=RN2-3
+Added Pin To Net: NetName=NetRN1_1 Pin=RN2-4
+Added Pin To Net: NetName=NetD8_1 Pin=RN2-6
+Added Pin To Net: NetName=NetD7_1 Pin=RN2-7
+Added Pin To Net: NetName=NetD6_1 Pin=RN2-8
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=Button01 Pin=SW1-2
+Added Pin To Net: NetName=Button02 Pin=SW2-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-22
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-25
+Add Pin To Net: Unknown Pin: Pin U1-26
+Add Pin To Net: Unknown Pin: Pin U1-27
+Add Pin To Net: Unknown Pin: Pin U1-28
+Add Pin To Net: Unknown Pin: Pin U1-29
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Added Pin To Net: NetName=PCF_75_INT Pin=U3-1
+Added Pin To Net: NetName=P00 Pin=U3-4
+Added Pin To Net: NetName=P01 Pin=U3-5
+Added Pin To Net: NetName=P02 Pin=U3-6
+Added Pin To Net: NetName=P03 Pin=U3-7
+Added Pin To Net: NetName=P04 Pin=U3-8
+Added Pin To Net: NetName=P05 Pin=U3-9
+Added Pin To Net: NetName=P06 Pin=U3-10
+Added Pin To Net: NetName=P07 Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=P10 Pin=U3-13
+Added Pin To Net: NetName=P11 Pin=U3-14
+Added Pin To Net: NetName=P12 Pin=U3-15
+Added Pin To Net: NetName=P13 Pin=U3-16
+Added Pin To Net: NetName=P14 Pin=U3-17
+Added Pin To Net: NetName=P15 Pin=U3-18
+Added Pin To Net: NetName=P16 Pin=U3-19
+Added Pin To Net: NetName=P17 Pin=U3-20
+Added Pin To Net: NetName=PCF_SCL Pin=U3-22
+Added Pin To Net: NetName=PCF_SDA Pin=U3-23
+Added Pin To Net: NetName=NetR5_2 Pin=U3-24
+Added Pin To Net: NetName=P0 Pin=U4-4
+Added Pin To Net: NetName=P1 Pin=U4-5
+Added Pin To Net: NetName=P3 Pin=U4-6
+Added Pin To Net: NetName=P2 Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=P4 Pin=U4-9
+Added Pin To Net: NetName=P5 Pin=U4-10
+Added Pin To Net: NetName=P6 Pin=U4-11
+Added Pin To Net: NetName=P7 Pin=U4-12
+Added Pin To Net: NetName=I2CSW_SCL Pin=U4-14
+Added Pin To Net: NetName=I2CSW_SDA Pin=U4-15
+Added Pin To Net: NetName=NetR20_2 Pin=U5-2
+Added Pin To Net: NetName=RTC_INT Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=I2CSW_SDA Pin=U5-15
+Added Pin To Net: NetName=I2CSW_SCL Pin=U5-16
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=P6-P
+Added Pin To Net: NetName=NetC8_2 Pin=U5-14
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=RN2-5
+Added Net: Name=NetD9_1
+Added Net: Name=NetDIO1_1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U3-3
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U3-2
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U3-21
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U4-3
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U4-2
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U4-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U4-16
+Added Net: Name=NetR13_2
+Added Member To Class: ClassName=MCU Member=Component C1 104
+Added Member To Class: ClassName=MCU Member=Component C2 104
+Add Class Member: Failed to add class member : Component C3 CAP_TAN_SMD
+Add Class Member: Failed to add class member : Component C4 CAP_TAN_SMD
+Added Member To Class: ClassName=MCU Member=Component C5 104
+Added Member To Class: ClassName=MCU Member=Component C6 104
+Added Member To Class: ClassName=MCU Member=Component C7 104
+Added Member To Class: ClassName=MCU Member=Component C8 104
+Added Member To Class: ClassName=MCU Member=Component C9 104
+Add Class Member: Failed to add class member : Component D1 Zenner 5V
+Added Member To Class: ClassName=MCU Member=Component D2 LED
+Added Member To Class: ClassName=MCU Member=Component D3 LED
+Added Member To Class: ClassName=MCU Member=Component D4 LED
+Added Member To Class: ClassName=MCU Member=Component D5 LED
+Added Member To Class: ClassName=MCU Member=Component D6 LED
+Added Member To Class: ClassName=MCU Member=Component D7 LED
+Added Member To Class: ClassName=MCU Member=Component D8 LED
+Added Member To Class: ClassName=MCU Member=Component D9 LED
+Add Class Member: Failed to add class member : Component DIO1 Diode SMD
+Added Member To Class: ClassName=MCU Member=Component IDC1
+Added Member To Class: ClassName=MCU Member=Component IDC2
+Added Member To Class: ClassName=MCU Member=Component IDC3
+Added Member To Class: ClassName=MCU Member=Component IDC4
+Added Member To Class: ClassName=MCU Member=Component IDC5
+Added Member To Class: ClassName=MCU Member=Component IDC6
+Added Member To Class: ClassName=MCU Member=Component IDC7
+Added Member To Class: ClassName=MCU Member=Component IDC8
+Added Member To Class: ClassName=MCU Member=Component IDC?
+Add Class Member: Failed to add class member : Component J1 Jumper2
+Added Member To Class: ClassName=MCU Member=Component J2 Jumper 2
+Add Class Member: Failed to add class member : Component JDC1 Jac DC
+Add Class Member: Failed to add class member : Component JP1 Header6
+Add Class Member: Failed to add class member : Component P1 TP
+Add Class Member: Failed to add class member : Component P2 TP
+Add Class Member: Failed to add class member : Component P3 TP
+Added Member To Class: ClassName=MCU Member=Component P4 Micro SD card
+Add Class Member: Failed to add class member : Component P5 Header6
+Added Member To Class: ClassName=MCU Member=Component P6 Cell Coin
+Added Member To Class: ClassName=MCU Member=Component R1 Resistor - SMD
+Added Member To Class: ClassName=MCU Member=Component R2 Resistor - SMD
+Added Member To Class: ClassName=MCU Member=Component R3 0R
+Added Member To Class: ClassName=MCU Member=Component R4 0R
+Added Member To Class: ClassName=MCU Member=Component R5 0R
+Added Member To Class: ClassName=MCU Member=Component R6 4.7k
+Added Member To Class: ClassName=MCU Member=Component R7 4.7k
+Added Member To Class: ClassName=MCU Member=Component R8 0R
+Added Member To Class: ClassName=MCU Member=Component R9 Resistor - SMD
+Added Member To Class: ClassName=MCU Member=Component R10 10k
+Added Member To Class: ClassName=MCU Member=Component R11 10k
+Added Member To Class: ClassName=MCU Member=Component R12 10k
+Added Member To Class: ClassName=MCU Member=Component R13 Resistor - SMD
+Added Member To Class: ClassName=MCU Member=Component R14 4.7k
+Added Member To Class: ClassName=MCU Member=Component R15 4.7k
+Added Member To Class: ClassName=MCU Member=Component R16 4.7k
+Added Member To Class: ClassName=MCU Member=Component R17 4.7k
+Added Member To Class: ClassName=MCU Member=Component R18 4.7k
+Added Member To Class: ClassName=MCU Member=Component R19 4.7k
+Added Member To Class: ClassName=MCU Member=Component R20 0R
+Added Member To Class: ClassName=MCU Member=Component RN1 RN4_Dual
+Added Member To Class: ClassName=MCU Member=Component RN2 RN4_Dual
+Added Member To Class: ClassName=MCU Member=Component SW1 SW
+Added Member To Class: ClassName=MCU Member=Component SW2 SW
+Add Class Member: Failed to add class member : Component U1 ESP32 Module 30GPIO
+Add Class Member: Failed to add class member : Component U2 LM1117
+Added Member To Class: ClassName=MCU Member=Component U3 PCF8575
+Added Member To Class: ClassName=MCU Member=Component U4 PCF8574DW
+Added Member To Class: ClassName=MCU Member=Component U5 DS3231 SMD
+Add Class Member: Failed to add class member : Component VIT1 1
+Add Class Member: Failed to add class member : Component VIT2 1
+Add Class Member: Failed to add class member : Component VIT3 1
+Add Class Member: Failed to add class member : Component VIT4 1
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1
+Added Rule: Name=Schematic Supply Nets_5

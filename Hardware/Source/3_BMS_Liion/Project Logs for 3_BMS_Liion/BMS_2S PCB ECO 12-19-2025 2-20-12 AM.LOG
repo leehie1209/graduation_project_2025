@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Change Component Footprint: Designator=C2 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Class Member: Failed to add class member : Component U1 HY2120

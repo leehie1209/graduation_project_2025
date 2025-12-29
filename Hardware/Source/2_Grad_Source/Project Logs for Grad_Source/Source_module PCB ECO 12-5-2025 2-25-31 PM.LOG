@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=TX_2 Pin=IC1-8
+Added Pin To Net: NetName=RX_2 Pin=IC1-9
+Added Pin To Net: NetName=TX_1 Pin=IC1-10
+Added Pin To Net: NetName=RX_1 Pin=IC1-11
+Added Pin To Net: NetName=SCL Pin=IC1-12
+Added Pin To Net: NetName=SDA Pin=IC1-13
+Added Pin To Net: NetName=TX_2 Pin=P6-2
+Added Pin To Net: NetName=RX_2 Pin=P6-4
+Added Pin To Net: NetName=SDA Pin=R29-2

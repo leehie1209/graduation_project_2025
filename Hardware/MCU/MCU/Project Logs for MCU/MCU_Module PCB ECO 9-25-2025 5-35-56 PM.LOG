@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5V1 Pin=IDC7-6
+Removed Pin From Net: NetName=3.3V Pin=IDC7-8
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=3.3V Pin=IDC7-6
+Added Pin To Net: NetName=+5V1 Pin=IDC7-8
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

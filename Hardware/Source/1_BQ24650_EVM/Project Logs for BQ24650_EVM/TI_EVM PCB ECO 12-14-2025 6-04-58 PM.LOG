@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=V_LOAD Pin=C1-3
+Added Pin To Net: NetName=V_BATT Pin=C1-3

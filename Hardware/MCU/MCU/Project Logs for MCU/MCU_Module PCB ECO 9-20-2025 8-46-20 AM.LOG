@@ -1,0 +1,104 @@
+Removed Member From Class: ClassName=MCU Member=IDC?
+Change Component Designator: OldDesignator=IDC5 NewDesignator=IDC6
+Change Component Designator: OldDesignator=IDC6 NewDesignator=IDC7
+Change Component Designator: OldDesignator=IDC7 NewDesignator=IDC8
+Change Component Designator: OldDesignator=IDC8 NewDesignator=IDC9
+Change Component Designator: OldDesignator=IDC? NewDesignator=IDC5
+Added Component: Designator=C3(CAP_7343)
+Added Component: Designator=C4(CAP_7343)
+Added Component: Designator=D1(D1A)
+Added Component: Designator=DIO1(DIO-SMD-106)
+Added Component: Designator=J1(RES-SMD-0402)
+Added Component: Designator=JDC1(DC-IN)
+Added Component: Designator=JP1(JP6)
+Added Component: Designator=P1(Testpoint 50ml)
+Added Component: Designator=P2(Testpoint 50ml)
+Added Component: Designator=P3(Testpoint 50ml)
+Added Component: Designator=P5(JP6)
+Add Component: Footprint Not Found ESP32 Module 30GPIO_v3
+Added Component: Designator=U2(SOT-89-3)
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin DIO1-1
+Add Pin To Net: Unknown Pin: Pin DIO1-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin JDC1-1
+Add Pin To Net: Unknown Pin: Pin JDC1-2
+Add Pin To Net: Unknown Pin: Pin JP1-1
+Add Pin To Net: Unknown Pin: Pin JP1-2
+Add Pin To Net: Unknown Pin: Pin JP1-3
+Add Pin To Net: Unknown Pin: Pin JP1-4
+Add Pin To Net: Unknown Pin: Pin JP1-5
+Add Pin To Net: Unknown Pin: Pin JP1-6
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P4-0
+Add Pin To Net: Unknown Pin: Pin P5-3
+Add Pin To Net: Unknown Pin: Pin P5-4
+Add Pin To Net: Unknown Pin: Pin P5-5
+Add Pin To Net: Unknown Pin: Pin P5-6
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-22
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-25
+Add Pin To Net: Unknown Pin: Pin U1-26
+Add Pin To Net: Unknown Pin: Pin U1-27
+Add Pin To Net: Unknown Pin: Pin U1-28
+Add Pin To Net: Unknown Pin: Pin U1-29
+Add Pin To Net: Unknown Pin: Pin U1-30
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Class Member: Failed to add class member : Component C3 CAP_TAN_SMD
+Add Class Member: Failed to add class member : Component C4 CAP_TAN_SMD
+Add Class Member: Failed to add class member : Component D1 Zenner 5V
+Add Class Member: Failed to add class member : Component DIO1 Diode SMD
+Added Member To Class: ClassName=MCU Member=Component IDC9
+Add Class Member: Failed to add class member : Component J1 Jumper2
+Add Class Member: Failed to add class member : Component JDC1 Jac DC
+Add Class Member: Failed to add class member : Component JP1 Header6
+Add Class Member: Failed to add class member : Component P1 TP
+Add Class Member: Failed to add class member : Component P2 TP
+Add Class Member: Failed to add class member : Component P3 TP
+Add Class Member: Failed to add class member : Component P5 Header6
+Add Class Member: Failed to add class member : Component U1 ESP32 Module 30GPIO
+Add Class Member: Failed to add class member : Component U2 LM1117
+Add Class Member: Failed to add class member : Component VIT1 1
+Add Class Member: Failed to add class member : Component VIT2 1
+Add Class Member: Failed to add class member : Component VIT3 1
+Add Class Member: Failed to add class member : Component VIT4 1
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

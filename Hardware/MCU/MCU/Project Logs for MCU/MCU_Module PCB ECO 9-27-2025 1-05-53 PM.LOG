@@ -1,0 +1,76 @@
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Component Comment : Designator=3V3 Old Comment=Testpoint New Comment=3V3
+Change Component Comment : Designator=5V Old Comment=Testpoint New Comment=5V
+Change Component Comment : Designator=-5V Old Comment=Testpoint New Comment=-5V
+Change Component Comment : Designator=GND1 Old Comment=Testpoint New Comment=GND
+Change Component Designator: OldDesignator=-5V NewDesignator=-1
+Change Component Designator: OldDesignator=3V3 NewDesignator=1
+Change Component Designator: OldDesignator=5V NewDesignator=2
+Change Component Designator: OldDesignator=GND1 NewDesignator=2
+Change Component Designator: OldDesignator=J5 NewDesignator=J7
+Change Component Designator: OldDesignator=J6 NewDesignator=J8
+Added Component: Designator=J5(JP15-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613015143121"; VariantName = "[No Variations]"
+Added Component: Designator=J6(JP15-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613015143121"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=IDC_CS Pin=J5-3
+Added Pin To Net: NetName=PCF_SDA Pin=J5-4
+Added Pin To Net: NetName=PCF_SCL Pin=J5-5
+Added Pin To Net: NetName=RX/RO Pin=J5-6
+Added Pin To Net: NetName=TX/DI Pin=J5-7
+Added Pin To Net: NetName=SD_CS Pin=J5-8
+Added Pin To Net: NetName=SD_CLK Pin=J5-9
+Added Pin To Net: NetName=SD_MISO Pin=J5-10
+Added Pin To Net: NetName=I2CHW_SDA Pin=J5-11
+Added Pin To Net: NetName=RX_0 Pin=J5-12
+Added Pin To Net: NetName=TX_0 Pin=J5-13
+Added Pin To Net: NetName=I2CHW_SCL Pin=J5-14
+Added Pin To Net: NetName=SD_MOSI Pin=J5-15
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=IDC_MISO Pin=J6-3
+Added Pin To Net: NetName=IDC_MOSI Pin=J6-4
+Added Pin To Net: NetName=IDC_CLK Pin=J6-5
+Added Pin To Net: NetName=I2CSW_SCL Pin=J6-6
+Added Pin To Net: NetName=I2CSW_SDA Pin=J6-7
+Added Pin To Net: NetName=WDT_PWM Pin=J6-8
+Added Pin To Net: NetName=PWM_02 Pin=J6-9
+Added Pin To Net: NetName=PWM_01 Pin=J6-10
+Added Pin To Net: NetName=RTC_INT Pin=J6-11
+Added Pin To Net: NetName=PCF_75_INT Pin=J6-12
+Added Pin To Net: NetName=Button01 Pin=J6-13
+Added Pin To Net: NetName=Button02 Pin=J6-14
+Added Pin To Net: NetName=WDT_RESET Pin=J6-15
+Added Pin To Net: NetName=3V3_MCU Pin=J2-1
+Added Pin To Net: NetName=3V3_MCU Pin=J5-1
+Added Pin To Net: NetName=3V3_MCU Pin=U1-1
+Added Net: Name=3V3_MCU
+Added Pin To Net: NetName=VIN_MCU Pin=J1-2
+Added Pin To Net: NetName=VIN_MCU Pin=J6-1
+Added Pin To Net: NetName=VIN_MCU Pin=U1-30
+Added Net: Name=VIN_MCU
+Added Member To Class: ClassName=MCU Member=Component J7 Header6
+Added Member To Class: ClassName=MCU Member=Component J8 Header6
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

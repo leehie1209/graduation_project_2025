@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=NetQ2_5,6,7,8,9 Pin=Q2-5
+Removed Pin From Net: NetName=NetQ2_5,6,7,8,9 Pin=Q2-6
+Removed Pin From Net: NetName=NetQ2_5,6,7,8,9 Pin=Q2-7
+Removed Pin From Net: NetName=NetQ2_5,6,7,8,9 Pin=Q2-8
+Removed Pin From Net: NetName=NetQ2_5,6,7,8,9 Pin=Q2-9
+Change Component Footprint: Designator=Q2 Old Footprint=MOSFET_HP_8Pin New Footprint=SOT23
+Change Footprint: Cannot match pads with new footprint in component :Q3 Footprint:SOT23
+Added Pin To Net: NetName=NetQ2_5,6,7,8,9 Pin=Q2-2
+Change Net Name : Old Net Name=NetQ2_5,6,7,8,9 New Net Name=NetQ2_2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=U1-2
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=Li_ion_PRT-BL Member=Component R4 220R
+Added Member To Class: ClassName=Li_ion_PRT-BL Member=Component R5 Resistor - SMD

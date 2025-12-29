@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=Button Pin=C9-2
+Removed Pin From Net: NetName=3.3V Pin=IDC1-2
+Removed Pin From Net: NetName=+5V1 Pin=IDC1-6
+Removed Pin From Net: NetName=-5V Pin=IDC1-10
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Added Pin To Net: NetName=-5V Pin=IDC1-2
+Added Pin To Net: NetName=3.3V Pin=IDC1-6
+Added Pin To Net: NetName=+5V1 Pin=IDC1-10
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC9_2
+Added Member To Class: ClassName=MCU Member=Component C9 104
+Added Member To Class: ClassName=MCU Member=Component C10 104
+Added Member To Class: ClassName=MCU Member=Component VIT1 1
+Added Member To Class: ClassName=MCU Member=Component VIT2 1
+Added Member To Class: ClassName=MCU Member=Component VIT3 1
+Added Member To Class: ClassName=MCU Member=Component VIT4 1

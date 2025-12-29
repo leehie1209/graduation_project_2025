@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=U5-9
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Component Footprint: Designator=U5 Old Footprint=SD New Footprint=SD Card TF Card Micro
+Change Component Comment : Designator=U5 Old Comment=SD_CARD New Comment=TF Card Micro SD Card
+Change Component Designator: OldDesignator=2 NewDesignator=3
+Change component parameters: Designator = "U5" ("U5"); Footprint = "SD"; UniqueID = "\TNMEWQCV" ("\TNMEWQCV")
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Member To Class: ClassName=MCU Member=Component 3 GND
+Added Member To Class: ClassName=MCU Member=Component J5 JP15
+Added Member To Class: ClassName=MCU Member=Component J6 JP15
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

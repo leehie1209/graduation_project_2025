@@ -1,0 +1,43 @@
+Change Component Designator: OldDesignator=P4 NewDesignator=P1
+Change Component Designator: OldDesignator=P5 NewDesignator=P2
+Added Component: Designator=J1(RES-SMD-0402)
+Added Component: Designator=J5(Header6)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Testpoint 50ml)
+Added Component: Designator=TP2(Testpoint 50ml)
+Added Component: Designator=TP3(Testpoint 50ml)
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Added Pin To Net: NetName=I2CSW_SCL Pin=J5-3
+Added Pin To Net: NetName=I2CSW_SDA Pin=J5-4
+Added Pin To Net: NetName=3.3V Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J5-6
+Add Pin To Net: Unknown Pin: Pin P1-0
+Added Pin To Net: NetName=3.3V Pin=TP1-1
+Added Pin To Net: NetName=+5V1 Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Add Class Member: Failed to add class member : Component J1 Jumper2
+Added Member To Class: ClassName=MCU Member=Component J5 Header6
+Added Member To Class: ClassName=MCU Member=Component TP1 Testpoint
+Added Member To Class: ClassName=MCU Member=Component TP2 Testpoint
+Added Member To Class: ClassName=MCU Member=Component TP3 Testpoint
+Add Class Member: Failed to add class member : Component VIT1 1
+Add Class Member: Failed to add class member : Component VIT2 1
+Add Class Member: Failed to add class member : Component VIT3 1
+Add Class Member: Failed to add class member : Component VIT4 1
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

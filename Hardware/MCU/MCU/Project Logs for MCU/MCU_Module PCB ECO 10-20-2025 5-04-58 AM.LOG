@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=P16 Pin=ADC-3
+Added Pin To Net: NetName=P17 Pin=ADC-5
+Added Pin To Net: NetName=P14 Pin=I2C_2-5
+Added Pin To Net: NetName=P15 Pin=I2C_2-6
+Added Pin To Net: NetName=P13 Pin=I2C_2-8
+Added Pin To Net: NetName=P12 Pin=SPI-4
+Added Pin To Net: NetName=P11 Pin=SPI-6
+Added Pin To Net: NetName=P10 Pin=SPI-8
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

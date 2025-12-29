@@ -1,0 +1,135 @@
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=3V3 Pin=C30-2
+Removed Pin From Net: NetName=V_SOLAR Pin=D1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=D1-2
+Removed Member From Class: ClassName=Controller Member=C28
+Removed Member From Class: ClassName=Source Member=D7
+Change Component Designator: OldDesignator=C31 NewDesignator=C30
+Change Component Designator: OldDesignator=C32 NewDesignator=C31
+Change Component Designator: OldDesignator=C33 NewDesignator=C32
+Change Component Designator: OldDesignator=C34 NewDesignator=C33
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q5
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=R23 NewDesignator=R25
+Change Component Designator: OldDesignator=R24 NewDesignator=R26
+Change Component Designator: OldDesignator=R25 NewDesignator=R27
+Change Component Designator: OldDesignator=R26 NewDesignator=R28
+Change Component Designator: OldDesignator=R27 NewDesignator=R29
+Change Component Designator: OldDesignator=R28 NewDesignator=R30
+Change Component Designator: OldDesignator=R29 NewDesignator=R31
+Change Component Designator: OldDesignator=R30 NewDesignator=R32
+Change Component Designator: OldDesignator=R31 NewDesignator=R33
+Change Component Designator: OldDesignator=R32 NewDesignator=R34
+Change Component Designator: OldDesignator=R33 NewDesignator=R35
+Change Component Designator: OldDesignator=R34 NewDesignator=R36
+Change Component Designator: OldDesignator=R35 NewDesignator=R37
+Change Component Designator: OldDesignator=R36 NewDesignator=R38
+Change Component Designator: OldDesignator=R37 NewDesignator=R39
+Change Component Designator: OldDesignator=R38 NewDesignator=R40
+Change Component Designator: OldDesignator=R39 NewDesignator=R41
+Added Component: Designator=Q1(SOT23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://linhkien.cxtvn.com/3834-ru20p7c-mosfet-p-ch-5a-20v-sot-23.html"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-2
+Added Pin To Net: NetName=V_SOLAR Pin=Q1-3
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ3_2 New Net Name=NetQ4_2
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ4_2 New Net Name=NetQ5_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR38_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-1
+Added Net: Name=NetQ1_1
+Added Member To Class: ClassName=Source Member=Component C3 0.1uF
+Added Member To Class: ClassName=Source Member=Component C5 0.1uF
+Added Member To Class: ClassName=Source Member=Component C8 10uF
+Added Member To Class: ClassName=Source Member=Component C9 1uF
+Added Member To Class: ClassName=Source Member=Component C11 10uF
+Added Member To Class: ClassName=Source Member=Component C12 4.7uF
+Added Member To Class: ClassName=Source Member=Component C13 104
+Added Member To Class: ClassName=Source Member=Component C15 22pF
+Added Member To Class: ClassName=Source Member=Component C17 10uF
+Added Member To Class: ClassName=Source Member=Component C22 104
+Added Member To Class: ClassName=Source Member=Component C24 107
+Added Member To Class: ClassName=Source Member=Component C26 220pF
+Added Member To Class: ClassName=Source Member=Component C27 104
+Added Member To Class: ClassName=Controller Member=Component C32 100uF
+Added Member To Class: ClassName=Source Member=Component J1 Jumper2
+Added Member To Class: ClassName=Source Member=Component L2 10uH
+Added Member To Class: ClassName=Source Member=Component Q2 MOSFET-N-8pin
+Added Member To Class: ClassName=Source Member=Component Q3 MOSFET-N-8pin
+Added Member To Class: ClassName=Controller Member=Component Q5 2SC1815
+Added Member To Class: ClassName=Source Member=Component R2 10R
+Added Member To Class: ClassName=Source Member=Component R5 30.1k
+Added Member To Class: ClassName=Source Member=Component R8 0R
+Added Member To Class: ClassName=Source Member=Component R9 499k
+Added Member To Class: ClassName=Source Member=Component R10 2R
+Added Member To Class: ClassName=Source Member=Component R12 499k
+Added Member To Class: ClassName=Source Member=Component R17 10k
+Added Member To Class: ClassName=Source Member=Component R19 249k
+Added Member To Class: ClassName=Source Member=Component R21 220
+Added Member To Class: ClassName=Source Member=Component R22 47k
+Added Member To Class: ClassName=Source Member=Component R23 200k
+Added Member To Class: ClassName=Source Member=Component R24 68.1k
+Added Member To Class: ClassName=Source Member=Component R25 10k
+Added Member To Class: ClassName=Source Member=Component R26 10k
+Added Member To Class: ClassName=Controller Member=Component R31 5k1
+Added Member To Class: ClassName=Controller Member=Component R33 10k
+Added Member To Class: ClassName=Controller Member=Component R35 1k
+Added Member To Class: ClassName=Controller Member=Component R37 0R
+Added Member To Class: ClassName=Controller Member=Component R39 1k
+Added Member To Class: ClassName=Controller Member=Component R41 10k

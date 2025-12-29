@@ -1,0 +1,34 @@
+Removed Member From Class: ClassName=Source Member=R29
+Change Component Footprint: Designator=R22 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Add Component: Footprint Not Found JP6-D1T
+Add Component: Footprint Not Found Fuse1A
+Add Component: Footprint Not Found IPD90P03P4L04ATMA2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C1-3
+Add Pin To Net: Unknown Pin: Pin C1-4
+Add Pin To Net: Unknown Pin: Pin C1-5
+Add Pin To Net: Unknown Pin: Pin C1-6
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Class Member: Failed to add class member : Component C1 JP6
+Add Class Member: Failed to add class member : Component F1 F100
+Add Class Member: Failed to add class member : Component Q1 SUD50P06-15-GE3
+Added Member To Class: ClassName=Source Member=Component R15 0.05R
+Added Member To Class: ClassName=Source Member=Component R16 100k
+Added Member To Class: ClassName=Source Member=Component R18 10k
+Added Member To Class: ClassName=Source Member=Component R20 249k
+Added Member To Class: ClassName=Source Member=Component R22 220
+Added Member To Class: ClassName=Source Member=Component R24 200k
+Added Member To Class: ClassName=Source Member=Component R25 68.1k
+Added Member To Class: ClassName=Source Member=Component R27 10k
+Added Member To Class: ClassName=Controller Member=Component R28 1k
+Added Member To Class: ClassName=Controller Member=Component R30 1k
+Added Member To Class: ClassName=Controller Member=Component R32 5k1
+Added Member To Class: ClassName=Controller Member=Component R34 10k
+Added Member To Class: ClassName=Controller Member=Component R36 1k
+Added Member To Class: ClassName=Controller Member=Component R38 0R
+Added Member To Class: ClassName=Controller Member=Component R40 1k

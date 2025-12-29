@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=D5 Old DesignItemId=Diode SMD New DesignItemId=Diode Schottky
+Change Component Footprint: Designator=D5 Old Footprint=DIO-SMD-106 New Footprint=DIO-3A
+Change Component Footprint: Designator=D1 Old Footprint=SMA New Footprint=DIO-SMD-123
+Change Component Comment : Designator=D5 Old Comment=Diode SMD New Comment=Diode Schottky
+Change Component Comment : Designator=D6 Old Comment=SS54 New Comment=Diode SMD
+Change component parameters: Designator = "D5" ("D5"); Footprint = "DIO-SMD-106"; UniqueID = "\GYOJMZOI" ("\GYOJMZOI")

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=IDC_CLK Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=IDC_CLK Pin=D2-2
+Added Component: Designator=D2(DIODE_ZENER_SMD)
+Added Pin To Net: NetName=IDC_CLK Pin=C6-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=D2-2
+Added Pin To Net: NetName=NetC6_2 Pin=J9-2
+Added Pin To Net: NetName=NetC6_2 Pin=R1-1
+Added Net: Name=NetC6_2

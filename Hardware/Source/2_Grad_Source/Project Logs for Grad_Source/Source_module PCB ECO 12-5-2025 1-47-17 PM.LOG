@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SDA_2 Pin=P6-7
+Removed Pin From Net: NetName=SCL_2 Pin=P6-9
+Change Net Name : Old Net Name=UART_RX New Net Name=RX_1
+Change Net Name : Old Net Name=UART_TX New Net Name=TX_1
+Added Pin To Net: NetName=RX_2 Pin=P6-9
+Added Net: Name=RX_2
+Added Pin To Net: NetName=TX_2 Pin=P6-7
+Added Net: Name=TX_2

@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=3V3 Pin=J4-2
+Removed Member From Class: ClassName=Source Member=J4
+Add Component: Footprint Not Found JP6-D1T
+Add Component: Footprint Not Found Fuse1A
+Added Component: Designator=P6(HDR2X12_CEN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR2X12)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P8(HDR2X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P9(HDR2X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found IPD90P03P4L04ATMA2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C1-3
+Add Pin To Net: Unknown Pin: Pin C1-4
+Add Pin To Net: Unknown Pin: Pin C1-5
+Add Pin To Net: Unknown Pin: Pin C1-6
+Added Pin To Net: NetName=3V3 Pin=C26-2
+Added Pin To Net: NetName=3V3 Pin=C28-1
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Added Pin To Net: NetName=3V3 Pin=LED_S1-1
+Added Pin To Net: NetName=GND_MCU Pin=P7-15
+Added Pin To Net: NetName=GND_MCU Pin=P7-17
+Added Pin To Net: NetName=GND_MCU Pin=P7-19
+Added Pin To Net: NetName=GND_MCU Pin=P7-21
+Added Pin To Net: NetName=GND_MCU Pin=P7-22
+Added Pin To Net: NetName=GND_MCU Pin=P7-23
+Added Pin To Net: NetName=GND_MCU Pin=P7-24
+Added Pin To Net: NetName=5V_F Pin=P8-1
+Added Pin To Net: NetName=5V_F Pin=P8-2
+Added Pin To Net: NetName=5V_F Pin=P8-3
+Added Pin To Net: NetName=5V_F Pin=P8-4
+Added Pin To Net: NetName=5V_F Pin=P8-5
+Added Pin To Net: NetName=5V_F Pin=P8-6
+Added Pin To Net: NetName=3V3_MCU Pin=P9-1
+Added Pin To Net: NetName=3V3_MCU Pin=P9-2
+Added Pin To Net: NetName=3V3_MCU Pin=P9-3
+Added Pin To Net: NetName=3V3_MCU Pin=P9-4
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=ADC Pin=P7-16
+Added Net: Name=ADC
+Added Pin To Net: NetName=Button Pin=P7-20
+Added Net: Name=Button
+Added Pin To Net: NetName=LED Pin=P7-18
+Added Net: Name=LED
+Added Pin To Net: NetName=SCL_1 Pin=P7-1
+Added Pin To Net: NetName=SCL_1 Pin=P7-3
+Added Pin To Net: NetName=SCL_1 Pin=P7-5
+Added Net: Name=SCL_1
+Added Pin To Net: NetName=SCL_2 Pin=P7-9
+Added Pin To Net: NetName=SCL_2 Pin=P7-10
+Added Net: Name=SCL_2
+Added Pin To Net: NetName=SDA_1 Pin=P7-2
+Added Pin To Net: NetName=SDA_1 Pin=P7-4
+Added Pin To Net: NetName=SDA_1 Pin=P7-6
+Added Net: Name=SDA_1
+Added Pin To Net: NetName=SDA_2 Pin=P7-7
+Added Pin To Net: NetName=SDA_2 Pin=P7-8
+Added Net: Name=SDA_2
+Added Pin To Net: NetName=UART_RX Pin=P7-11
+Added Pin To Net: NetName=UART_RX Pin=P7-12
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=P7-13
+Added Pin To Net: NetName=UART_TX Pin=P7-14
+Added Net: Name=UART_TX
+Add Class Member: Failed to add class member : Component C1 JP6
+Add Class Member: Failed to add class member : Component F1 F100
+Added Member To Class: ClassName=Controller Member=Component P6 Header 12X2A
+Added Member To Class: ClassName=Controller Member=Component P7 Header 12X2
+Added Member To Class: ClassName=Controller Member=Component P8 Header 3X2
+Added Member To Class: ClassName=Controller Member=Component P9 Header 2X2
+Add Class Member: Failed to add class member : Component Q1 SUD50P06-15-GE3

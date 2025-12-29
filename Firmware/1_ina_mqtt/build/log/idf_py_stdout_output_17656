@@ -1,0 +1,33 @@
+[1/10] Performing build step for 'bootloader'
+[1/1] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\HUST\20251-Thelastdance\Graduation\Firmware\1_ina_mqtt\build\bootloader\esp-idf\esptool_py && C:\Users\ASUS\Espressif\python_env\idf5.4_py3.11_env\Scripts\python.exe C:/user/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build/bootloader/bootloader.bin"
+Bootloader binary size 0x6560 bytes. 0xaa0 bytes (9%) free.
+[2/10] No install step for 'bootloader'
+[3/10] Completed 'bootloader'
+[4/10] Building C object esp-idf/main/CMakeFiles/__idf_main.dir/mqtt/mqtt.c.obj
+D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/main/mqtt/mqtt.c:10:13: warning: 'log_error_if_nonzero' defined but not used [-Wunused-function]
+   10 | static void log_error_if_nonzero(const char *message, int error_code)
+      |             ^~~~~~~~~~~~~~~~~~~~
+[5/10] Linking C static library esp-idf\main\libmain.a
+[6/10] Generating ld/sections.ld
+[7/10] Linking CXX executable 1_ina_mqtt.elf
+[8/10] Generating binary image from built executable
+esptool.py v4.8.1
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build/1_ina_mqtt.bin
+[9/10] C:\WINDOWS\system32\cmd.exe /C "cd /D D:\HUST\20251-Thelastdance\Graduation\Firmware\1_ina_mqtt\build\esp-idf\esptool_py && C:\Users\ASUS\Espressif\python_env\idf5.4_py3.11_env\Scripts\python.exe C:/user/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build/partition_table/partition-table.bin D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build/1_ina_mqtt.bin"
+1_ina_mqtt.bin binary size 0xd43e0 bytes. Smallest app partition is 0x100000 bytes. 0x2bc20 bytes (17%) free.
+[9/10] C:\WINDOWS\system32\cmd.exe /C "cd /D C:\user\esp-idf\components\esptool_py && C:\Users\ASUS\Espressif\tools\cmake\3.30.2\bin\cmake.exe -D IDF_PATH=C:/user/esp-idf -D SERIAL_TOOL=C:/Users/ASUS/Espressif/python_env/idf5.4_py3.11_env/Scripts/python.exe;;C:/user/esp-idf/components/esptool_py/esptool/esptool.py;--chip;esp32 -D SERIAL_TOOL_ARGS=--before=default_reset;--after=hard_reset;write_flash;@flash_args -D WORKING_DIRECTORY=D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build -P C:/user/esp-idf/components/esptool_py/run_serial_tool.cmake"
+esptool.py --chip esp32 -p COM3 -b 460800 --before=default_reset --after=hard_reset write_flash --flash_mode dio --flash_freq 40m --flash_size 2MB 0x1000 bootloader/bootloader.bin 0x10000 1_ina_mqtt.bin 0x8000 partition_table/partition-table.bin
+esptool.py v4.8.1
+Serial port COM3
+
+A fatal error occurred: Could not open COM3, the port is busy or doesn't exist.
+(could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2))
+
+Hint: Check if the port is correct and ESP connected
+
+FAILED: CMakeFiles/flash D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build/CMakeFiles/flash 
+C:\WINDOWS\system32\cmd.exe /C "cd /D C:\user\esp-idf\components\esptool_py && C:\Users\ASUS\Espressif\tools\cmake\3.30.2\bin\cmake.exe -D IDF_PATH=C:/user/esp-idf -D SERIAL_TOOL=C:/Users/ASUS/Espressif/python_env/idf5.4_py3.11_env/Scripts/python.exe;;C:/user/esp-idf/components/esptool_py/esptool/esptool.py;--chip;esp32 -D SERIAL_TOOL_ARGS=--before=default_reset;--after=hard_reset;write_flash;@flash_args -D WORKING_DIRECTORY=D:/HUST/20251-Thelastdance/Graduation/Firmware/1_ina_mqtt/build -P C:/user/esp-idf/components/esptool_py/run_serial_tool.cmake"
+ninja: build stopped: subcommand failed.

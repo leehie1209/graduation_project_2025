@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=VIT? NewDesignator=VIT2
+Added Component: Designator=VIT1(VIT)
+Added Component: Designator=VIT3(VIT)
+Added Component: Designator=VIT4(VIT)
+Added Pin To Net: NetName=GND Pin=VIT1-VIT1
+Added Pin To Net: NetName=GND Pin=VIT3-VIT1
+Added Pin To Net: NetName=V_BATT Pin=VIT4-VIT1
+Added Member To Class: ClassName=Source Member=Component VIT1 1
+Added Member To Class: ClassName=Source Member=Component VIT3 1
+Added Member To Class: ClassName=Source Member=Component VIT4 1

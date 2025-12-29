@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=HIDRV Pin=P3-1
+Removed Pin From Net: NetName=HIDRV Pin=Q2-4
+Removed Pin From Net: NetName=HIDRV Pin=U1-15
+Change Net Name : Old Net Name=HIDRV New Net Name=PH
+Added Pin To Net: NetName=HIDRV Pin=P3-1
+Added Pin To Net: NetName=HIDRV Pin=Q2-4
+Added Pin To Net: NetName=HIDRV Pin=U1-15
+Added Net: Name=HIDRV

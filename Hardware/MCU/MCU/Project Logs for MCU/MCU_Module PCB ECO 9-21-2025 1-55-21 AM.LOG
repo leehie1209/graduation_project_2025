@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=+5V1 Pin=IDC4-4
+Removed Pin From Net: NetName=+5V1 Pin=IDC4-6
+Removed Pin From Net: NetName=3.3V Pin=J2-2
+Removed Pin From Net: NetName=SD_MOSI Pin=U1-1
+Removed Pin From Net: NetName=I2CHW_SCL Pin=U1-2
+Removed Pin From Net: NetName=TX_0 Pin=U1-3
+Removed Pin From Net: NetName=RX_0 Pin=U1-4
+Removed Pin From Net: NetName=I2CHW_SDA Pin=U1-5
+Removed Pin From Net: NetName=SD_MISO Pin=U1-6
+Removed Pin From Net: NetName=SD_CLK Pin=U1-7
+Removed Pin From Net: NetName=TX/DI Pin=U1-9
+Removed Pin From Net: NetName=RX/RO Pin=U1-10
+Removed Pin From Net: NetName=PCF_SDA Pin=U1-11
+Removed Pin From Net: NetName=IDC_CS Pin=U1-12
+Removed Pin From Net: NetName=PCF_SCL Pin=U1-13
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=NetJ2_1 Pin=U1-15
+Removed Pin From Net: NetName=GND Pin=U1-29
+Change Component Footprint: Designator=U1 Old Footprint=MODULE_ESP32-DEVKITC-32D New Footprint=ESP32-DEVKIT-V1
+Change Component Comment : Designator=U1 Old Comment=ESP32 Module 30GPIO New Comment=ESP32-WROOM-DEVKIT-V1
+Change Component Designator: OldDesignator=IDC7 NewDesignator=IDC6
+Change Component Designator: OldDesignator=IDC8 NewDesignator=IDC7
+Change Component Designator: OldDesignator=IDC9 NewDesignator=IDC8
+Added Component: Designator=J1(RES-SMD-0201)
+Added Component: Designator=J3(JP2)
+Add component (AddParameter): Name = "Value"; Value = "JP 2"; VariantName = "[No Variations]"
+Added Component: Designator=J4(Header6)
+Added Component: Designator=J5(Header6)
+Added Component: Designator=P1(Testpoint 50ml)
+Added Component: Designator=P2(Testpoint 50ml)
+Added Component: Designator=P3(Testpoint 50ml)
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=+5V1 Pin=IDC2-4
+Added Pin To Net: NetName=+5V1 Pin=IDC2-6
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Added Pin To Net: NetName=+5V1 Pin=J3-2
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-4
+Add Pin To Net: Unknown Pin: Pin J4-5
+Add Pin To Net: Unknown Pin: Pin J4-6
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin J5-4
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J5-6
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P4-0
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-1
+Added Pin To Net: NetName=PCF_SCL Pin=U1-3
+Added Pin To Net: NetName=IDC_CS Pin=U1-4
+Added Pin To Net: NetName=PCF_SDA Pin=U1-5
+Added Pin To Net: NetName=RX/RO Pin=U1-6
+Added Pin To Net: NetName=TX/DI Pin=U1-7
+Added Pin To Net: NetName=SD_CLK Pin=U1-9
+Added Pin To Net: NetName=SD_MISO Pin=U1-10
+Added Pin To Net: NetName=I2CHW_SDA Pin=U1-11
+Added Pin To Net: NetName=TX_0 Pin=U1-12
+Added Pin To Net: NetName=RX_0 Pin=U1-13
+Added Pin To Net: NetName=I2CHW_SCL Pin=U1-14
+Added Pin To Net: NetName=SD_MOSI Pin=U1-15
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 255, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Pin To Net: NetName=+5V2 Pin=IDC4-4
+Added Pin To Net: NetName=+5V2 Pin=IDC4-6
+Added Pin To Net: NetName=+5V2 Pin=J3-1
+Added Net: Name=+5V2
+Add Class Member: Failed to add class member : Component J1 Jumper2
+Added Member To Class: ClassName=MCU Member=Component J3 Jumper 2
+Add Class Member: Failed to add class member : Component J4 Header6
+Add Class Member: Failed to add class member : Component J5 Header6
+Add Class Member: Failed to add class member : Component P1 TP
+Add Class Member: Failed to add class member : Component P2 TP
+Add Class Member: Failed to add class member : Component P3 TP
+Add Class Member: Failed to add class member : Component VIT1 1
+Add Class Member: Failed to add class member : Component VIT2 1
+Add Class Member: Failed to add class member : Component VIT3 1
+Add Class Member: Failed to add class member : Component VIT4 1
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1
+Added Rule: Name=Schematic Supply Nets_4

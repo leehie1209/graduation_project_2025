@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=3V3 Pin=FB1-1
+Removed Pin From Net: NetName=GND Pin=FB2-1
+Removed Member From Class: ClassName=Controller Member=D5
+Removed Member From Class: ClassName=Controller Member=FB1
+Removed Member From Class: ClassName=Controller Member=FB2
+Removed Member From Class: ClassName=Source Member=Q5
+Removed Member From Class: ClassName=Source Member=R40
+Removed Member From Class: ClassName=Source Member=R41
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=3V3 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=3V3 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-15
+Added Pin To Net: NetName=GND Pin=IC1-38
+Added Pin To Net: NetName=GND Pin=IC1-39_1
+Added Pin To Net: NetName=GND Pin=IC1-39_2
+Added Pin To Net: NetName=GND Pin=IC1-39_3
+Added Pin To Net: NetName=GND Pin=IC1-39_4
+Added Pin To Net: NetName=GND Pin=IC1-39_5
+Added Pin To Net: NetName=GND Pin=IC1-39_6
+Added Pin To Net: NetName=GND Pin=IC1-39_7
+Added Pin To Net: NetName=GND Pin=IC1-39_8
+Added Pin To Net: NetName=GND Pin=IC1-39_9
+Added Pin To Net: NetName=GND Pin=IC1-39_10
+Added Pin To Net: NetName=GND Pin=IC1-39_11
+Added Pin To Net: NetName=GND Pin=IC1-39_12
+Added Pin To Net: NetName=GND Pin=IC1-39_13
+Added Pin To Net: NetName=GND Pin=IC1-39_14
+Added Pin To Net: NetName=GND Pin=IC1-39_15
+Added Pin To Net: NetName=GND Pin=IC1-39_16
+Added Pin To Net: NetName=GND Pin=IC1-39_17
+Added Pin To Net: NetName=GND Pin=IC1-39_18
+Added Pin To Net: NetName=GND Pin=IC1-39_19
+Added Pin To Net: NetName=GND Pin=IC1-39_20
+Added Pin To Net: NetName=GND Pin=IC1-39_21
+Added Pin To Net: NetName=GND Pin=P6-15
+Added Pin To Net: NetName=GND Pin=P6-17
+Added Pin To Net: NetName=GND Pin=P6-19
+Added Pin To Net: NetName=GND Pin=P6-21
+Added Pin To Net: NetName=GND Pin=P6-22
+Added Pin To Net: NetName=GND Pin=P6-23
+Added Pin To Net: NetName=GND Pin=P6-24
+Added Pin To Net: NetName=3V3 Pin=P8-1
+Added Pin To Net: NetName=3V3 Pin=P8-2
+Added Pin To Net: NetName=3V3 Pin=P8-3
+Added Pin To Net: NetName=3V3 Pin=P8-4
+Added Pin To Net: NetName=3V3 Pin=R27-1
+Added Pin To Net: NetName=3V3 Pin=R28-1
+Added Pin To Net: NetName=3V3 Pin=R29-1
+Added Pin To Net: NetName=3V3 Pin=R32-1
+Added Pin To Net: NetName=3V3 Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R34-2
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Pin To Net: NetName=3V3 Pin=R41-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=3V3 Pin=U5-4
+Added Pin To Net: NetName=3V3 Pin=U5-16
+Added Member To Class: ClassName=Controller Member=Component C30 104
+Added Member To Class: ClassName=Controller Member=Component C32 100uF
+Added Member To Class: ClassName=Source Member=Component D1 1N5819
+Added Member To Class: ClassName=Source Member=Component D3 LED
+Added Member To Class: ClassName=Source Member=Component D4 SS34-HF
+Added Member To Class: ClassName=Source Member=Component D5 Diode SMD
+Added Member To Class: ClassName=Controller Member=Component D6 Diode SMD
+Added Member To Class: ClassName=Source Member=Component Q1 RU20P7C
+Added Member To Class: ClassName=Source Member=Component Q3 MOSFET-N-8pin
+Added Member To Class: ClassName=Controller Member=Component Q4 2SC1815
+Added Member To Class: ClassName=Source Member=Component R1 10R
+Added Member To Class: ClassName=Source Member=Component R3 10R
+Added Member To Class: ClassName=Source Member=Component R4 0.05
+Added Member To Class: ClassName=Source Member=Component R5 30.1k
+Added Member To Class: ClassName=Source Member=Component R6 0R
+Added Member To Class: ClassName=Source Member=Component R9 499k
+Added Member To Class: ClassName=Source Member=Component R10 2R
+Added Member To Class: ClassName=Source Member=Component R11 36k
+Added Member To Class: ClassName=Source Member=Component R12 499k
+Added Member To Class: ClassName=Source Member=Component R14 0.05R
+Added Member To Class: ClassName=Source Member=Component R15 100k
+Added Member To Class: ClassName=Source Member=Component R16 10k
+Added Member To Class: ClassName=Source Member=Component R17 10k
+Added Member To Class: ClassName=Source Member=Component R18 10k
+Added Member To Class: ClassName=Source Member=Component R19 249k
+Added Member To Class: ClassName=Source Member=Component R20 24.9k
+Added Member To Class: ClassName=Source Member=Component R21 220
+Added Member To Class: ClassName=Source Member=Component R23 200k
+Added Member To Class: ClassName=Source Member=Component R24 68.1k
+Added Member To Class: ClassName=Source Member=Component R26 10k
+Added Member To Class: ClassName=Controller Member=Component R27 1k
+Added Member To Class: ClassName=Controller Member=Component R28 1k
+Added Member To Class: ClassName=Controller Member=Component R29 1k
+Added Member To Class: ClassName=Controller Member=Component R30 5k1
+Added Member To Class: ClassName=Controller Member=Component R31 5k1
+Added Member To Class: ClassName=Controller Member=Component R32 10k
+Added Member To Class: ClassName=Controller Member=Component R33 10k
+Added Member To Class: ClassName=Controller Member=Component R34 1k
+Added Member To Class: ClassName=Controller Member=Component R35 1k
+Added Member To Class: ClassName=Controller Member=Component R36 1k
+Added Member To Class: ClassName=Controller Member=Component R37 0R
+Added Member To Class: ClassName=Controller Member=Component R38 0R
+Added Member To Class: ClassName=Controller Member=Component R39 1k

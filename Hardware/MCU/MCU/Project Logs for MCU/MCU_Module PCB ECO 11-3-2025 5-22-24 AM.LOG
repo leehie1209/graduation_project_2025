@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=U3 Old Footprint=SOIC24 New Footprint=TSSOP-24
+Change Component Comment : Designator=C3 Old Comment=CAP_TAN_SMD New Comment=107
+Change Component Comment : Designator=C4 Old Comment=CAP_TAN_SMD New Comment=107
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

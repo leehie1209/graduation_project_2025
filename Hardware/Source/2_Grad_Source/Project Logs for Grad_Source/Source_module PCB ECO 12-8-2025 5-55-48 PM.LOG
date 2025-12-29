@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Source Member=P15
+Removed Member From Class: ClassName=Source Member=P16
+Removed Member From Class: ClassName=Source Member=P17
+Removed Member From Class: ClassName=Source Member=P18
+Added Component: Designator=VIT?(VIT)
+Added Member To Class: ClassName=Source Member=Component P2 TP
+Added Member To Class: ClassName=Source Member=Component P4 TP
+Added Member To Class: ClassName=Source Member=Component P5 TP
+Added Member To Class: ClassName=Source Member=Component P6 TP
+Added Member To Class: ClassName=Source Member=Component P7 TP
+Added Member To Class: ClassName=Source Member=Component P8 TP
+Added Member To Class: ClassName=Source Member=Component VIT? 1

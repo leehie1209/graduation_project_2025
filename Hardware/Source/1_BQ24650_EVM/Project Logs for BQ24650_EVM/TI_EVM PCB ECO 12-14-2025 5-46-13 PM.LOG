@@ -1,0 +1,149 @@
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=3V3 Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=IN+ Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=3V3 Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=NetC24_2 Pin=D3-2
+Removed Pin From Net: NetName=NetC24_2 Pin=L3-1
+Removed Pin From Net: NetName=3V3 Pin=LED_S1-1
+Removed Pin From Net: NetName=IN+ Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R36-2
+Removed Pin From Net: NetName=GND Pin=R37-2
+Removed Pin From Net: NetName=GND Pin=R38-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=3V3 Pin=U2-2
+Removed Pin From Net: NetName=3V3 Pin=U2-2
+Removed Pin From Net: NetName=NetC24_2 Pin=U3-1
+Removed Pin From Net: NetName=IN+ Pin=U3-7
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=GND Pin=U5-4
+Removed Member From Class: ClassName=TI_EVM Member=C26
+Removed Member From Class: ClassName=TI_EVM Member=C27
+Removed Member From Class: ClassName=TI_EVM Member=C28
+Removed Member From Class: ClassName=TI_EVM Member=C29
+Removed Member From Class: ClassName=TI_EVM Member=C30
+Removed Member From Class: ClassName=TI_EVM Member=C31
+Removed Member From Class: ClassName=TI_EVM Member=C32
+Removed Member From Class: ClassName=TI_EVM Member=C33
+Removed Member From Class: ClassName=TI_EVM Member=F3
+Removed Member From Class: ClassName=TI_EVM Member=L3
+Removed Member From Class: ClassName=TI_EVM Member=LED_S1
+Removed Member From Class: ClassName=TI_EVM Member=P12
+Removed Member From Class: ClassName=TI_EVM Member=R31
+Removed Member From Class: ClassName=TI_EVM Member=R32
+Removed Member From Class: ClassName=TI_EVM Member=R33
+Removed Member From Class: ClassName=TI_EVM Member=R34
+Removed Member From Class: ClassName=TI_EVM Member=R35
+Removed Member From Class: ClassName=TI_EVM Member=R36
+Removed Member From Class: ClassName=TI_EVM Member=R37
+Removed Member From Class: ClassName=TI_EVM Member=R38
+Removed Member From Class: ClassName=TI_EVM Member=U4
+Removed Member From Class: ClassName=TI_EVM Member=U5
+Change Component Footprint: Designator=C24 Old Footprint=CAP_0805 New Footprint=CAP_0402
+Change Component Footprint: Designator=R22 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0101
+Change Component Footprint: Designator=R23 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0101
+Change Component Footprint: Designator=R24 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0101
+Change Component Footprint: Designator=R25 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0101
+Change Component Footprint: Designator=R26 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0101
+Change Component Footprint: Designator=R27 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0101
+Change Component Footprint: Designator=R30 Old Footprint=RES-SMD-0805 New Footprint=RES-SMD-0101
+Change Component Footprint: Designator=D3 Old Footprint=SMA New Footprint=DIODE_ZENER_SMD
+Change Component Footprint: Designator=U3 Old Footprint=SOP8-PP New Footprint=SOIC-8
+Change Component Comment : Designator=R23 Old Comment=24.9k New Comment=1M
+Change Component Comment : Designator=R25 Old Comment=47k New Comment=100k
+Change Component Comment : Designator=R27 Old Comment=68.1k New Comment=100R
+Change Component Comment : Designator=C24 Old Comment=100nF New Comment=0.47uF
+Change Component Comment : Designator=R26 Old Comment=200k New Comment=1M
+Change Component Comment : Designator=R24 Old Comment=220 New Comment=100k
+Change Component Comment : Designator=R22 Old Comment=249k New Comment=10R
+Change Component Comment : Designator=R30 Old Comment=750k New Comment=115k
+Change Component Comment : Designator=U3 Old Comment=MP1584 New Comment=MAX8212
+Change Component Comment : Designator=D3 Old Comment=SS34-HF New Comment=Zenner 12V
+Change Component Designator: OldDesignator=C33 NewDesignator=C25
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Change Component Designator: OldDesignator=P7 NewDesignator=P6
+Change Component Designator: OldDesignator=P8 NewDesignator=P7
+Change Component Designator: OldDesignator=P9 NewDesignator=P8
+Change Component Designator: OldDesignator=P10 NewDesignator=P9
+Change Component Designator: OldDesignator=P11 NewDesignator=P10
+Change Component Designator: OldDesignator=P12 NewDesignator=P11
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R18 NewDesignator=R12
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Change component parameters: Designator = "D3" ("D3"); Footprint = "SMA"; UniqueID = "\XYKSKLRG" ("\XYKSKLRG")
+Added Component: Designator=D6(DIODE_ZENER_SMD)
+Add Component: Footprint Not Found Fuse1A
+Add Component: Footprint Not Found IPD90P03P4L04ATMA2
+Added Component: Designator=Q4(TO-252)
+Added Component: Designator=Q5(TO-252)
+Added Component: Designator=R20(RES-SMD-0101)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW4)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C24-1
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Added Pin To Net: NetName=IN+ Pin=Q4-2
+Added Pin To Net: NetName=V_LOAD Pin=Q5-3
+Added Pin To Net: NetName=V_LOAD Pin=R20-1
+Added Pin To Net: NetName=NetC24_2 Pin=R22-2
+Added Pin To Net: NetName=NetC24_2 Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=NetC24_2 Pin=SW2-2
+Added Pin To Net: NetName=NetC24_2 Pin=SW2-4
+Added Pin To Net: NetName=NetC24_2 Pin=U3-8
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q4-1
+Added Pin To Net: NetName=NetD3_1 Pin=R25-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D6-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q4-3
+Added Pin To Net: NetName=NetD3_2 Pin=Q5-2
+Added Pin To Net: NetName=NetD3_2 Pin=R22-1
+Added Pin To Net: NetName=NetD3_2 Pin=R23-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=Q5-1
+Added Pin To Net: NetName=NetD6_1 Pin=R23-2
+Added Pin To Net: NetName=NetD6_1 Pin=R27-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=R26-2
+Added Pin To Net: NetName=NetR20_2 Pin=R30-1
+Added Pin To Net: NetName=NetR20_2 Pin=SW2-1
+Added Pin To Net: NetName=NetR20_2 Pin=SW2-3
+Added Pin To Net: NetName=NetR20_2 Pin=U3-3
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=R26-1
+Added Pin To Net: NetName=NetR24_2 Pin=U3-2
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=U3-4
+Added Net: Name=NetR27_1
+Added Member To Class: ClassName=TI_EVM Member=Component D6 Zenner 12V
+Add Class Member: Failed to add class member : Component F1 F100
+Add Class Member: Failed to add class member : Component Q2 SUD50P06-15-GE3
+Added Member To Class: ClassName=TI_EVM Member=Component Q4 MOSFET-P
+Added Member To Class: ClassName=TI_EVM Member=Component Q5 MOSFET-P
+Added Member To Class: ClassName=TI_EVM Member=Component SW2 SW

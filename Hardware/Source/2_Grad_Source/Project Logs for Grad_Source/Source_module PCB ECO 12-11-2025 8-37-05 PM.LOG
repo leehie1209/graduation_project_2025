@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5V Pin=P14-1
+Removed Member From Class: ClassName=Source Member=P15
+Change Component Comment : Designator=Q1 Old Comment=AO4407A  New Comment=AO4407A
+Change Component Designator: OldDesignator=P15 NewDesignator=P14
+Change Component Designator: OldDesignator=P16 NewDesignator=P15
+Change Component Designator: OldDesignator=P17 NewDesignator=P16
+Change Component Designator: OldDesignator=P18 NewDesignator=P17
+Change Component Designator: OldDesignator=P19 NewDesignator=P18
+Change Net Name : Old Net Name=NetP16_A5 New Net Name=NetP15_A5
+Change Net Name : Old Net Name=NetP16_B5 New Net Name=NetP15_B5

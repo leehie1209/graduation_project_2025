@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=R5 Old Footprint=RES-1/4WD New Footprint=RES-SMD-0805
+Change Component Designator: OldDesignator=C18 NewDesignator=C16
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Change Component Designator: OldDesignator=P7 NewDesignator=P6
+Change Component Designator: OldDesignator=P8 NewDesignator=P7
+Change Component Designator: OldDesignator=P9 NewDesignator=P8
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R22 NewDesignator=R20
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES-1/4WD"; UniqueID = "\ZYOYGJBJ" ("\ZYOYGJBJ")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=J1(JP2)
+Add component (AddParameter): Name = "Value"; Value = "JP 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR5_1 Pin=J1-1
+Added Pin To Net: NetName=TERM_EN Pin=J1-2
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR22_1
+Added Member To Class: ClassName=TI_EVM Member=Component J1 Jumper 2

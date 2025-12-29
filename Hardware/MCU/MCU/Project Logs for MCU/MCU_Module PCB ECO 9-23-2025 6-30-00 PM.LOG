@@ -1,0 +1,40 @@
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Added Component: Designator=U1(ESP32-DEVKIT-V1)
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=PCF_SCL Pin=U1-3
+Added Pin To Net: NetName=IDC_CS Pin=U1-4
+Added Pin To Net: NetName=PCF_SDA Pin=U1-5
+Added Pin To Net: NetName=RX/RO Pin=U1-6
+Added Pin To Net: NetName=TX/DI Pin=U1-7
+Added Pin To Net: NetName=SD_CS Pin=U1-8
+Added Pin To Net: NetName=SD_CLK Pin=U1-9
+Added Pin To Net: NetName=SD_MISO Pin=U1-10
+Added Pin To Net: NetName=I2CHW_SDA Pin=U1-11
+Added Pin To Net: NetName=TX_0 Pin=U1-12
+Added Pin To Net: NetName=RX_0 Pin=U1-13
+Added Pin To Net: NetName=I2CHW_SCL Pin=U1-14
+Added Pin To Net: NetName=SD_MOSI Pin=U1-15
+Added Pin To Net: NetName=WDT_RESET Pin=U1-16
+Added Pin To Net: NetName=Button01 Pin=U1-17
+Added Pin To Net: NetName=Button02 Pin=U1-18
+Added Pin To Net: NetName=Button03 Pin=U1-19
+Added Pin To Net: NetName=RTC_INT Pin=U1-20
+Added Pin To Net: NetName=PWM_01 Pin=U1-21
+Added Pin To Net: NetName=PWM_02 Pin=U1-22
+Added Pin To Net: NetName=WDT_PWM Pin=U1-23
+Added Pin To Net: NetName=I2CSW_SDA Pin=U1-24
+Added Pin To Net: NetName=I2CSW_SCL Pin=U1-25
+Added Pin To Net: NetName=IDC_CLK Pin=U1-26
+Added Pin To Net: NetName=IDC_MOSI Pin=U1-27
+Added Pin To Net: NetName=IDC_MISO Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-30
+Added Member To Class: ClassName=MCU Member=Component U1 ESP32-WROOM-DEVKIT-V1
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

@@ -1,0 +1,28 @@
+Added Component: Designator=F1(RES-SMD-1812)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_LOAD Pin=C1-3
+Added Pin To Net: NetName=V_LOAD Pin=F1-1
+Added Pin To Net: NetName=NetC1_5 Pin=F1-2
+Added Member To Class: ClassName=TI_EVM Member=Component C18 10uF
+Added Member To Class: ClassName=TI_EVM Member=Component C19 10uF
+Added Member To Class: ClassName=TI_EVM Member=Component C20 0.47uF
+Added Member To Class: ClassName=TI_EVM Member=Component F1 Fuse
+Added Member To Class: ClassName=TI_EVM Member=Component J1 Jumper2
+Added Member To Class: ClassName=TI_EVM Member=Component P2 Header 3
+Added Member To Class: ClassName=TI_EVM Member=Component P4 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P6 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P8 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P10 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P11 TP
+Added Member To Class: ClassName=TI_EVM Member=Component Q3 MOSFET-P
+Added Member To Class: ClassName=TI_EVM Member=Component R5 DFN
+Added Member To Class: ClassName=TI_EVM Member=Component R8 10R
+Added Member To Class: ClassName=TI_EVM Member=Component R9 1M
+Added Member To Class: ClassName=TI_EVM Member=Component R11 100k
+Added Member To Class: ClassName=TI_EVM Member=Component R12 100k
+Added Member To Class: ClassName=TI_EVM Member=Component R16 1M
+Added Member To Class: ClassName=TI_EVM Member=Component R18 100R
+Added Member To Class: ClassName=TI_EVM Member=Component R20 115k
+Added Member To Class: ClassName=TI_EVM Member=Component SW1 SW
+Added Member To Class: ClassName=TI_EVM Member=Component U2 MAX8212

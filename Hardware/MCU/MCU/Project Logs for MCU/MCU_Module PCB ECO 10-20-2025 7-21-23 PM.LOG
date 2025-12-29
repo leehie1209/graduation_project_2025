@@ -1,0 +1,11 @@
+Added Component: Designator=J9(RES-SMD-0402)
+Added Pin To Net: NetName=+5V2 Pin=J9-1
+Added Pin To Net: NetName=+5V2 Pin=SOURCE_SIG-5
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=R1-1
+Added Net: Name=NetJ9_2
+Added Member To Class: ClassName=MCU Member=Component J9 Jumper2

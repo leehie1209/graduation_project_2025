@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=I2CSW_SCL Pin=J5-3
+Removed Pin From Net: NetName=I2CSW_SDA Pin=J5-4
+Removed Pin From Net: NetName=3.3V Pin=J5-5
+Removed Pin From Net: NetName=GND Pin=J5-6
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=3.3V Pin=J5-2
+Added Pin To Net: NetName=I2CSW_SDA Pin=J5-3
+Added Pin To Net: NetName=I2CSW_SCL Pin=J5-4
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

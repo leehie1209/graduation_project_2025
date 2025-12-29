@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=P2 Pin=D2-2
+Removed Pin From Net: NetName=P3 Pin=D3-2
+Removed Pin From Net: NetName=P1 Pin=D4-2
+Removed Pin From Net: NetName=P0 Pin=D5-2
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=P1 Pin=D2-2
+Added Pin To Net: NetName=P0 Pin=D3-2
+Added Pin To Net: NetName=P2 Pin=D4-2
+Added Pin To Net: NetName=P3 Pin=D5-2
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

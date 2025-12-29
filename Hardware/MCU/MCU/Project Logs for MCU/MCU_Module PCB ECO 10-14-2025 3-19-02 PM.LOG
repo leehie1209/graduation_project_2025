@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=S1 Old Footprint=SW2 New Footprint=BUTTON NGHIENG
+Change Component Footprint: Designator=S2 Old Footprint=SW2 New Footprint=BUTTON NGHIENG
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

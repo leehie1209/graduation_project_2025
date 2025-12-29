@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3 Pin=U4-8
+Change Component Comment : Designator=P19 Old Comment=3V3 New Comment=Header 2X2
+Change Component Comment : Designator=P18 Old Comment=5V New Comment=Header 3X2
+Change Component Designator: OldDesignator=RST NewDesignator=S1
+Added Pin To Net: NetName=PH Pin=P3-1
+Added Pin To Net: NetName=PH Pin=Q2-4
+Added Pin To Net: NetName=PH Pin=U1-15
+Added Pin To Net: NetName=IN+ Pin=U4-8
+Change Net Name : Old Net Name=PH New Net Name=HIDRV

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=I2CHW_SDA Pin=IDC8-7
+Removed Pin From Net: NetName=I2CHW_SCL Pin=IDC8-9
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=I2CHW_SCL Pin=IDC8-7
+Added Pin To Net: NetName=I2CHW_SDA Pin=IDC8-9
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

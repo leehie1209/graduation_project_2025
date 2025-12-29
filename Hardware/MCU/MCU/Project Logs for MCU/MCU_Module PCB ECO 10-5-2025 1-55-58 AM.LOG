@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RX/RO Pin=IDC4-3
+Removed Pin From Net: NetName=TX/DI Pin=IDC4-9
+Added Pin To Net: NetName=TX/DI Pin=IDC4-3
+Added Pin To Net: NetName=RX/RO Pin=IDC4-9
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

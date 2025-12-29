@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3.3V Pin=C13-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Pin To Net: NetName=VCC_PCF Pin=C13-2
+Added Pin To Net: NetName=VCC_PCF Pin=R13-2
+Added Pin To Net: NetName=VCC_PCF Pin=U4-16
+Added Net: Name=VCC_PCF

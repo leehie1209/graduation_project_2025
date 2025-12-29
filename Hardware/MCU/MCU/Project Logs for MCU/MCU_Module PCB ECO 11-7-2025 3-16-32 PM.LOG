@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED0
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED8 NewDesignator=LED7
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetLED4_1 New Net Name=NetLED0_1
+Change Net Name : Old Net Name=NetLED5_1 New Net Name=NetLED4_1
+Change Net Name : Old Net Name=NetLED6_1 New Net Name=NetLED5_1
+Change Net Name : Old Net Name=NetLED7_1 New Net Name=NetLED6_1
+Change Net Name : Old Net Name=NetLED8_1 New Net Name=NetLED7_1
+Added Member To Class: ClassName=MCU Member=Component C31 104

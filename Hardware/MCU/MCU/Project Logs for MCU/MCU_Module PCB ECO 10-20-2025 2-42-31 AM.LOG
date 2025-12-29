@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Button01 Pin=IDC4-2
+Removed Pin From Net: NetName=Button02 Pin=IDC4-4
+Removed Pin From Net: NetName=WDT_PWM Pin=IDC4-6
+Removed Pin From Net: NetName=I2CSW_SDA Pin=IDC4-8
+Added Pin To Net: NetName=Button01 Pin=IDC4-6
+Added Pin To Net: NetName=Button02 Pin=IDC4-8
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Pin To Net: NetName=VN Pin=IDC4-2
+Added Pin To Net: NetName=VN Pin=U1-18
+Added Net: Name=VN
+Added Pin To Net: NetName=VP Pin=IDC4-4
+Added Pin To Net: NetName=VP Pin=U1-17
+Added Net: Name=VP

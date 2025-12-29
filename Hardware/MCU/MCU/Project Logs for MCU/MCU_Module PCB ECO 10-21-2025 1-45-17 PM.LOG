@@ -1,0 +1,6 @@
+Change Component Comment : Designator=D2 Old Comment= New Comment=Zn
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=MCU Member=Component D2 Zn

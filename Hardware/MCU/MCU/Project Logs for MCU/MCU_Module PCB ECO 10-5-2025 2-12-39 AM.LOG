@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND_A Pin=IDC6-2
+Removed Pin From Net: NetName=GND_A Pin=IDC6-4
+Removed Pin From Net: NetName=3.3V_A Pin=IDC6-8
+Removed Pin From Net: NetName=3.3V_A Pin=IDC6-10
+Removed Pin From Net: NetName=GND Pin=IDC7-2
+Removed Pin From Net: NetName=GND Pin=IDC7-4
+Removed Pin From Net: NetName=3.3V Pin=IDC7-8
+Removed Pin From Net: NetName=3.3V Pin=IDC7-10
+Added Pin To Net: NetName=3.3V Pin=IDC2-2
+Added Pin To Net: NetName=3.3V Pin=IDC2-4
+Added Pin To Net: NetName=3.3V_A Pin=IDC6-2
+Added Pin To Net: NetName=3.3V_A Pin=IDC6-4
+Added Pin To Net: NetName=GND_A Pin=IDC6-8
+Added Pin To Net: NetName=GND_A Pin=IDC6-10
+Added Pin To Net: NetName=3.3V Pin=IDC7-2
+Added Pin To Net: NetName=3.3V Pin=IDC7-4
+Added Pin To Net: NetName=GND Pin=IDC7-8
+Added Pin To Net: NetName=GND Pin=IDC7-10
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

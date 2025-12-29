@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND_MCU Pin=FB5-1
+Removed Pin From Net: NetName=GND_MCU Pin=FB6-1
+Removed Pin From Net: NetName=GND_MCU Pin=U1-2
+Removed Pin From Net: NetName=GND_MCU Pin=U1-29
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Pin To Net: NetName=GND_MCU1 Pin=FB5-1
+Added Pin To Net: NetName=GND_MCU1 Pin=U1-2
+Added Net: Name=GND_MCU1
+Added Pin To Net: NetName=GND_MCU2 Pin=FB6-1
+Added Pin To Net: NetName=GND_MCU2 Pin=U1-29
+Added Net: Name=GND_MCU2

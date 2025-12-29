@@ -1,0 +1,12 @@
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=Pw_ADC Pin=IDC7-3
+Added Pin To Net: NetName=Pw_ADC Pin=U1-4
+Change Net Name : Old Net Name=Button03 New Net Name=PCF_75_INT
+Change Net Name : Old Net Name=Pw_ADC New Net Name=IDC_CS
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

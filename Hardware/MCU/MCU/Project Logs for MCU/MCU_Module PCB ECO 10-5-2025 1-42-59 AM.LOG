@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=Button Pin=U3-17
+Change Component Comment : Designator=FB2 Old Comment=50R New Comment=30R/3A
+Change Component Comment : Designator=FB3 Old Comment=50R New Comment=30R/3A
+Change Component Comment : Designator=FB1 Old Comment=Ferrit Bead New Comment=30R/3A
+Change Component Comment : Designator=FB4 Old Comment=Ferrit Bead New Comment=30R/3A
+Change Component Comment : Designator=FB5 Old Comment=Ferrit Bead New Comment=30R/3A
+Change Component Comment : Designator=FB6 Old Comment=Ferrit Bead New Comment=30R/3A
+Change Component Description : Designator=C1 Old Description=Capacitor New Description=Capacitor SMD 0603
+Change Component Description : Designator=C2 Old Description=Capacitor New Description=Capacitor SMD 0603
+Change Component Description : Designator=C3 Old Description=Capacitor New Description=Capacitor SMD 0603
+Change Component Description : Designator=C4 Old Description=Capacitor New Description=Capacitor SMD 0603
+Change Component Description : Designator=C5 Old Description=Capacitor New Description=Capacitor SMD 0603
+Change Component Description : Designator=C6 Old Description=Capacitor New Description=Capacitor SMD 0603
+Change Component Description : Designator=C8 Old Description=Capacitor New Description=Capacitor SMD 0603
+Change Component Description : Designator=C9 Old Description=Capacitor SMD New Description=Capacitor SMD 0603
+Change Component Description : Designator=C10 Old Description=Capacitor SMD New Description=Capacitor SMD 0603
+Change Component Description : Designator=C11 Old Description=Capacitor SMD New Description=Capacitor SMD 0603
+Change Component Description : Designator=C12 Old Description=Capacitor SMD New Description=Capacitor SMD 0603
+Change Component Description : Designator=FB1 Old Description=Generic Ferrit Bead New Description=FB SMD 0603
+Change Component Description : Designator=FB2 Old Description=Generic Ferrit Bead New Description=FB SMD 0603
+Change Component Description : Designator=FB3 Old Description=Generic Ferrit Bead New Description=FB SMD 0603
+Change Component Description : Designator=FB4 Old Description=Generic Ferrit Bead New Description=FB SMD 0603
+Change Component Description : Designator=FB5 Old Description=Generic Ferrit Bead New Description=FB SMD 0603
+Change Component Description : Designator=FB6 Old Description=Generic Ferrit Bead New Description=FB SMD 0603
+Change Component Description : Designator=R1 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R2 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R3 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R4 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R5 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R6 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R7 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R8 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R9 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R10 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R11 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R12 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R13 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R14 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R15 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R16 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R17 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R18 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R19 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Change Component Description : Designator=R20 Old Description=Resistor SMD New Description=Resistor SMD 0603
+Added Pin To Net: NetName=P00 Pin=IDC2-1
+Added Pin To Net: NetName=P01 Pin=IDC2-3
+Added Pin To Net: NetName=P02 Pin=IDC2-5
+Added Pin To Net: NetName=P07 Pin=IDC2-6
+Added Pin To Net: NetName=P03 Pin=IDC2-7
+Added Pin To Net: NetName=P06 Pin=IDC2-8
+Added Pin To Net: NetName=P04 Pin=IDC2-9
+Added Pin To Net: NetName=P05 Pin=IDC2-10
+Added Pin To Net: NetName=P15 Pin=IDC8-1
+Added Pin To Net: NetName=P16 Pin=IDC8-3
+Added Pin To Net: NetName=P13 Pin=IDC8-4
+Added Pin To Net: NetName=Button Pin=IDC8-5
+Added Pin To Net: NetName=P12 Pin=IDC8-6
+Added Pin To Net: NetName=P11 Pin=IDC8-8
+Added Pin To Net: NetName=P10 Pin=IDC8-10
+Added Pin To Net: NetName=Button Pin=U3-20
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Pin To Net: NetName=P14 Pin=IDC8-2
+Added Pin To Net: NetName=P14 Pin=U3-17
+Added Net: Name=P14
+Added Member To Class: ClassName=MCU Member=Component 3 3V3

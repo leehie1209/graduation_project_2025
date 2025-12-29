@@ -1,0 +1,21 @@
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Member To Class: ClassName=MCU Member=Component C6 104
+Added Member To Class: ClassName=MCU Member=Component C8 104
+Added Member To Class: ClassName=MCU Member=Component R1 10k
+Added Member To Class: ClassName=MCU Member=Component R3 10k
+Added Member To Class: ClassName=MCU Member=Component R4 0R
+Added Member To Class: ClassName=MCU Member=Component R5 0R
+Added Member To Class: ClassName=MCU Member=Component R7 4.7k
+Added Member To Class: ClassName=MCU Member=Component R8 4.7k
+Added Member To Class: ClassName=MCU Member=Component R10 0R
+Added Member To Class: ClassName=MCU Member=Component R12 4.7k
+Added Member To Class: ClassName=MCU Member=Component R14 4.7k
+Added Member To Class: ClassName=MCU Member=Component R16 4.7k
+Added Member To Class: ClassName=MCU Member=Component S1 SW-SMD
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

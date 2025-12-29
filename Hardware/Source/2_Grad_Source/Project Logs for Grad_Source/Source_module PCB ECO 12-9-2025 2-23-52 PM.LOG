@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=V_SOLAR Pin=Q1-3
+Removed Member From Class: ClassName=Source Member=P16
+Change Component Footprint: Designator=Q1 Old Footprint=SOT23 New Footprint=SOIC-8
+Change Component Comment : Designator=Q1 Old Comment=RU20P7C New Comment=AO4407A 
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC1_2 Pin=Q1-3
+Added Pin To Net: NetName=V_SOLAR Pin=Q1-5
+Added Pin To Net: NetName=V_SOLAR Pin=Q1-6
+Added Pin To Net: NetName=V_SOLAR Pin=Q1-7
+Added Pin To Net: NetName=V_SOLAR Pin=Q1-8
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R1-2
+Added Pin To Net: NetName=NetQ1_4 Pin=R3-1
+Added Net: Name=NetQ1_4
+Added Member To Class: ClassName=Source Member=Component P6 TP
+Added Member To Class: ClassName=Source Member=Component P7 TP
+Added Member To Class: ClassName=Source Member=Component P8 TP
+Added Member To Class: ClassName=Source Member=Component P9 TP
+Added Member To Class: ClassName=Source Member=Component P10 TP
+Added Member To Class: ClassName=Source Member=Component P14 TP
+Added Member To Class: ClassName=Controller Member=Component P17 Header 12X2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=I2CHW_SDA Pin=I2C_OLED-3
+Removed Pin From Net: NetName=I2CHW_SCL Pin=I2C_OLED-5
+Added Pin To Net: NetName=I2CHW_SCL Pin=I2C_OLED-3
+Added Pin To Net: NetName=I2CHW_SDA Pin=I2C_OLED-5
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=MCU Member=Component C12 104

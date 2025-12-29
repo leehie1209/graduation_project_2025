@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=-5V Pin=-1-1
+Added Pin To Net: NetName=+5V1 Pin=2-1
+Added Pin To Net: NetName=3.3V Pin=3-1
+Added Pin To Net: NetName=-5V Pin=IDC5-1
+Added Pin To Net: NetName=-5V Pin=IDC5-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

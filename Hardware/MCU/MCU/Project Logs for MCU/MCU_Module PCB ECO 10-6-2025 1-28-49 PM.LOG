@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=IDC6-3
+Removed Pin From Net: NetName=I2CHW_SDA Pin=IDC6-5
+Removed Pin From Net: NetName=I2CHW_SCL Pin=IDC6-7
+Removed Pin From Net: NetName=Button Pin=IDC8-5
+Removed Pin From Net: NetName=Button Pin=U3-20
+Added Pin To Net: NetName=I2CHW_SDA Pin=IDC6-3
+Added Pin To Net: NetName=I2CHW_SCL Pin=IDC6-5
+Added Pin To Net: NetName=GND Pin=IDC6-7
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Pin To Net: NetName=P17 Pin=IDC8-5
+Added Pin To Net: NetName=P17 Pin=U3-20
+Added Net: Name=P17
+Added Member To Class: ClassName=MCU Member=Component 2 3V3
+Added Member To Class: ClassName=MCU Member=Component C4 104
+Added Member To Class: ClassName=MCU Member=Component C8 104
+Added Member To Class: ClassName=MCU Member=Component C9 104
+Added Member To Class: ClassName=MCU Member=Component FB5 30R/3A
+Added Member To Class: ClassName=MCU Member=Component FB6 30R/3A
+Added Member To Class: ClassName=MCU Member=Component IDC6

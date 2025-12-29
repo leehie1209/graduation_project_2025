@@ -1,0 +1,36 @@
+Add Component: Footprint Not Found JP6-D1T
+Add Component: Footprint Not Found Fuse1A
+Add Component: Footprint Not Found IPD90P03P4L04ATMA2
+Added Component: Designator=U1(VQFN-16)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C1-3
+Add Pin To Net: Unknown Pin: Pin C1-4
+Add Pin To Net: Unknown Pin: Pin C1-5
+Add Pin To Net: Unknown Pin: Pin C1-6
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Added Pin To Net: NetName=NetC5_2 Pin=U1-1
+Added Pin To Net: NetName=MPPSET Pin=U1-2
+Added Pin To Net: NetName=NetD4_2 Pin=U1-3
+Added Pin To Net: NetName=NetP2_2 Pin=U1-4
+Added Pin To Net: NetName=NetD5_2 Pin=U1-5
+Added Pin To Net: NetName=VREF Pin=U1-6
+Added Pin To Net: NetName=TERM_EN Pin=U1-7
+Added Pin To Net: NetName=NetC15_1 Pin=U1-8
+Added Pin To Net: NetName=SRN Pin=U1-9
+Added Pin To Net: NetName=SRP Pin=U1-10
+Added Pin To Net: NetName=S_GND Pin=U1-11
+Added Pin To Net: NetName=NetC10_2 Pin=U1-12
+Added Pin To Net: NetName=LODRV Pin=U1-13
+Added Pin To Net: NetName=PH Pin=U1-14
+Added Pin To Net: NetName=HIDRV Pin=U1-15
+Added Pin To Net: NetName=BTST Pin=U1-16
+Added Pin To Net: NetName=S_GND Pin=U1-17
+Add Class Member: Failed to add class member : Component C1 JP6
+Add Class Member: Failed to add class member : Component F1 F100
+Add Class Member: Failed to add class member : Component Q2 SUD50P06-15-GE3
+Added Member To Class: ClassName=TI_EVM Member=Component U1 BQ24650

@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=P02 Pin=I2C_OLED-2
+Added Pin To Net: NetName=P01 Pin=I2C_OLED-4
+Added Pin To Net: NetName=P00 Pin=I2C_OLED-6
+Added Pin To Net: NetName=P07 Pin=RS485/UART-2
+Added Pin To Net: NetName=P06 Pin=RS485/UART-4
+Added Pin To Net: NetName=P05 Pin=UART-2
+Added Pin To Net: NetName=P04 Pin=UART-4
+Added Pin To Net: NetName=P03 Pin=UART-6
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

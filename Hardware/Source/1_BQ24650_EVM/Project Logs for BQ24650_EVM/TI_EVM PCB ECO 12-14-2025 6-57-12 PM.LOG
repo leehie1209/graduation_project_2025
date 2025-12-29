@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetR5_2 Pin=SW1-2
+Removed Pin From Net: NetName=NetC18_2 Pin=SW1-4
+Added Pin To Net: NetName=NetC18_2 Pin=SW1-2
+Added Pin To Net: NetName=NetR5_2 Pin=SW1-4
+Added Member To Class: ClassName=TI_EVM Member=Component P3 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P5 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P7 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P9 TP

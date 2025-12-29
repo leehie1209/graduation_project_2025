@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=P6-22
+Change Net Name : Old Net Name=Button New Net Name=LED
+Change Net Name : Old Net Name=LED New Net Name=ADC
+Added Pin To Net: NetName=Button Pin=P6-22
+Added Net: Name=Button
+Added Member To Class: ClassName=Controller Member=Component R37 1k
+Added Member To Class: ClassName=Controller Member=Component R39 0R
+Added Member To Class: ClassName=Controller Member=Component R41 1k

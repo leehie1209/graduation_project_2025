@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=3V3 - 5V Pin=D11-2
+Removed Member From Class: ClassName=MCU Member=C13
+Removed Member From Class: ClassName=MCU Member=D11
+Removed Member From Class: ClassName=MCU Member=R20
+Change Component Comment : Designator=ADC Old Comment= New Comment=ADC
+Change Component Comment : Designator=I2C_2 Old Comment= New Comment=I2C_2
+Change Component Comment : Designator=I2C_OLED Old Comment= New Comment=I2C_OLED
+Change Component Comment : Designator=RS485/UART Old Comment= New Comment=RS485/UART
+Change Component Comment : Designator=SOURCE Old Comment= New Comment=SOURCE
+Change Component Comment : Designator=SOURCE_SIG Old Comment= New Comment=SOURCE_SIG
+Change Component Comment : Designator=SPI Old Comment= New Comment=SPI
+Change Component Comment : Designator=UART Old Comment= New Comment=UART
+Change Component Comment : Designator=F1 Old Comment=F1A New Comment=2A 8V
+Change Component Comment : Designator=R1 Old Comment=I.N New Comment=15k 1%
+Change Component Comment : Designator=R2 Old Comment=I.N New Comment=43k 1%
+Change Component Comment : Designator=RN1 Old Comment=RN4_Dual New Comment=20R
+Change Component Comment : Designator=RN2 Old Comment=RN4_Dual New Comment=20R
+Change Component Designator: OldDesignator=1 NewDesignator=3
+Change Component Designator: OldDesignator=2 NewDesignator=1
+Change Component Designator: OldDesignator=3 NewDesignator=2
+Change Component Designator: OldDesignator=ADC NewDesignator=J7
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=D8 NewDesignator=D7
+Change Component Designator: OldDesignator=D9 NewDesignator=D8
+Change Component Designator: OldDesignator=D10 NewDesignator=D9
+Change Component Designator: OldDesignator=FB5 NewDesignator=FB1
+Change Component Designator: OldDesignator=FB6 NewDesignator=FB2
+Change Component Designator: OldDesignator=I2C_2 NewDesignator=J5
+Change Component Designator: OldDesignator=I2C_OLED NewDesignator=J11
+Change Component Designator: OldDesignator=J4 NewDesignator=J8
+Change Component Designator: OldDesignator=J5 NewDesignator=J9
+Change Component Designator: OldDesignator=J7 NewDesignator=J14
+Change Component Designator: OldDesignator=J8 NewDesignator=J15
+Change Component Designator: OldDesignator=J9 NewDesignator=J6
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R5
+Change Component Designator: OldDesignator=R9 NewDesignator=R6
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=RS485/UART NewDesignator=J10
+Change Component Designator: OldDesignator=S1 NewDesignator=S2
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Change Component Designator: OldDesignator=SOURCE NewDesignator=J_S1
+Change Component Designator: OldDesignator=SOURCE_SIG NewDesignator=J_S2
+Change Component Designator: OldDesignator=SPI NewDesignator=J13
+Change Component Designator: OldDesignator=UART NewDesignator=J12
+Added Component: Designator=J4(HDR2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_BAT Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR19_2
+Added Member To Class: ClassName=MCU Member=Component C4 CAP_TAN_SMD
+Added Member To Class: ClassName=MCU Member=Component J15 Header6
+Added Member To Class: ClassName=MCU Member=Component R8 0R

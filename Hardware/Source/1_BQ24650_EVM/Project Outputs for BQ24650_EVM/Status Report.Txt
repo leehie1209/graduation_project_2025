@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [BQ24650_EVM.PrjPcb]
+   Generated File[TI_EVM_Copper_Signal_Top.gbr]
+   Generated File[TI_EVM_Copper_Signal_Bot.gbr]
+   Generated File[TI_EVM_Pads_Bot.gbr]
+   Generated File[TI_EVM_Pads_Top.gbr]
+   Generated File[TI_EVM_Legend_Top.gbr]
+   Generated File[TI_EVM_Legend_Bot.gbr]
+   Generated File[TI_EVM_Soldermask_Top.gbr]
+   Generated File[TI_EVM_Soldermask_Bot.gbr]
+   Generated File[TI_EVM_Paste_Top.gbr]
+   Generated File[TI_EVM_Paste_Bot.gbr]
+   Generated File[TI_EVM_Keep-out.gbr]
+   Generated File[TI_EVM_Profile.gbr]
+   Generated File[TI_EVM_NPTH_Drill.gbr]
+   Generated File[TI_EVM_PTH_Drill.gbr]
+   Generated File[TI_EVM_Drawing_1.gbr]
+   Generated File[TI_EVM_Drillmap_1.gbr]
+   Generated File[TI_EVM.EXTREP]
+   Generated File[TI_EVM.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 3:12:11 PM On 12/25/2025

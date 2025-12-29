@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "mqtt.h": "c",
+        "esp_event.h": "c",
+        "string.h": "c",
+        "cjson.h": "c",
+        "ina226.h": "c",
+        "future": "c",
+        "esp_log.h": "c"
+    }
+}

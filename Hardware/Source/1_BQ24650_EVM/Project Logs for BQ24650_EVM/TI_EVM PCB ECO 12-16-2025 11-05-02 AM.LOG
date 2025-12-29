@@ -1,0 +1,7 @@
+Change Component Comment : Designator=LED1 Old Comment=150141M173100 New Comment=LED RGB SMD v1
+Change component parameters: Designator = "LED1" ("LED1"); Footprint = "LED RGB 3528"; UniqueID = "\FNEMGNNV" ("\FNEMGNNV")
+Added Member To Class: ClassName=TI_EVM Member=Component P2 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P4 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P6 TP
+Added Member To Class: ClassName=TI_EVM Member=Component P8 TP
+Added Member To Class: ClassName=TI_EVM Member=Component R22 100R

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IN+ Pin=P15-6
+Removed Pin From Net: NetName=IN+ Pin=P15-7
+Removed Pin From Net: NetName=IN- Pin=P15-8
+Change Component Designator: OldDesignator=RST NewDesignator=S1
+Added Pin To Net: NetName=IN- Pin=P15-6
+Added Pin To Net: NetName=IN- Pin=P15-7
+Added Pin To Net: NetName=IN+ Pin=P15-8

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=RX_0 Pin=IDC2-1
+Removed Pin From Net: NetName=TX_0 Pin=IDC2-3
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Change Footprint: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=TX_0 Pin=IDC2-1
+Added Pin To Net: NetName=RX_0 Pin=IDC2-3
+Added Member To Class: ClassName=MCU Member=Component R3 0R
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

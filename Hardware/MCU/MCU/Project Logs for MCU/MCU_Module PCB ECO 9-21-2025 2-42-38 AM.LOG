@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=SD_CS Pin=P1-2
+Removed Pin From Net: NetName=SD_MOSI Pin=P1-3
+Removed Pin From Net: NetName=3.3V Pin=P1-4
+Removed Pin From Net: NetName=SD_CLK Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=SD_MISO Pin=P1-7
+Removed Member From Class: ClassName=MCU Member=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Added Component: Designator=U4(SD)
+Add component (AddParameter): Name = "Name"; Value = "SD/MMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "10000"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Add Component: Footprint Not Found VIT_3.7mm
+Added Pin To Net: NetName=SD_CS Pin=U4-2
+Added Pin To Net: NetName=SD_MOSI Pin=U4-3
+Added Pin To Net: NetName=3.3V Pin=U4-4
+Added Pin To Net: NetName=SD_CLK Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=SD_MISO Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Member To Class: ClassName=MCU Member=Component TP1 Testpoint
+Added Member To Class: ClassName=MCU Member=Component TP2 Testpoint
+Added Member To Class: ClassName=MCU Member=Component U5 DS3231 SMD
+Add Class Member: Failed to add class member : Component VIT1 1
+Add Class Member: Failed to add class member : Component VIT2 1
+Add Class Member: Failed to add class member : Component VIT3 1
+Add Class Member: Failed to add class member : Component VIT4 1
+Add Class Member: Failed to add class member : Component VIT5 1
+Add Class Member: Failed to add class member : Component VIT6 1

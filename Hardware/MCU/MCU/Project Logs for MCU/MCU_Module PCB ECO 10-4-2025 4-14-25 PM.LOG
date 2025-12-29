@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=IDC7 NewDesignator=IDC8
+Change Component Designator: OldDesignator=IDC8 NewDesignator=IDC7
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=MCU Member=Component IDC8

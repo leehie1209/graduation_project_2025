@@ -1,0 +1,3 @@
+Added Component: Designator=VIT?(VIT)
+Added Pin To Net: NetName=V_SOLAR Pin=VIT?-VIT1
+Added Member To Class: ClassName=Source Member=Component VIT? 1

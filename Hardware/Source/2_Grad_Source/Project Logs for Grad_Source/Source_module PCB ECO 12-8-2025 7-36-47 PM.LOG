@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=P6 NewDesignator=P8
+Change Component Designator: OldDesignator=P7 NewDesignator=P9
+Change Component Designator: OldDesignator=P8 NewDesignator=P10
+Change Component Designator: OldDesignator=P9 NewDesignator=P11
+Change Component Designator: OldDesignator=P10 NewDesignator=P12
+Change Component Designator: OldDesignator=P11 NewDesignator=P13
+Change Component Designator: OldDesignator=P13 NewDesignator=P14
+Change Component Designator: OldDesignator=P14 NewDesignator=P15
+Change Component Designator: OldDesignator=P15 NewDesignator=P16
+Change Component Designator: OldDesignator=P16 NewDesignator=P17
+Change Component Designator: OldDesignator=P17 NewDesignator=P18
+Change Component Designator: OldDesignator=P18 NewDesignator=P19
+Added Component: Designator=P6(Testpoint 50ml)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=P7(Testpoint 50ml)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P7-1
+Change Net Name : Old Net Name=NetP11_2 New Net Name=NetP13_2
+Change Net Name : Old Net Name=NetP11_3 New Net Name=NetP13_3
+Change Net Name : Old Net Name=NetP15_A5 New Net Name=NetP16_A5
+Change Net Name : Old Net Name=NetP15_B5 New Net Name=NetP16_B5
+Added Member To Class: ClassName=Source Member=Component P12 TP
+Added Member To Class: ClassName=Source Member=Component P15 Header 8
