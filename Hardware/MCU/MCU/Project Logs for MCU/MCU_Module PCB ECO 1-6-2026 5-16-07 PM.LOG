@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=5V_S Pin=C16-2
+Added Pin To Net: NetName=5V_S Pin=D1-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=VIN New Net Name=NetC17_2
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Net: Name=VIN

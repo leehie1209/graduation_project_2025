@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V_LDO Pin=F1-1
+Added Pin To Net: NetName=5V_S Pin=F1-1
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Add Net: Net with name "VIN" already exists

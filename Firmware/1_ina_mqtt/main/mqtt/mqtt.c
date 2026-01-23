@@ -38,7 +38,7 @@ static void mqtt_event_handler(void *arg, esp_event_base_t event_base,
 void mqtt_app_start(void)
 {
     esp_mqtt_client_config_t cfg = {
-        .broker.address.uri = "mqtt://test.mosquitto.org",
+        .broker.address.uri = "mqtt://mqtt.tyckr.io:1883/",
         .credentials.client_id = "esp32_test",
     };
 

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=-5V Pin=C1-2
+Removed Member From Class: ClassName=MCU Member=C1
+Added Pin To Net: NetName=IDC_CLK Pin=C17-1
+Added Pin To Net: NetName=IDC_CLK Pin=R21-2
+Added Pin To Net: NetName=IDC_CLK Pin=R22-1
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

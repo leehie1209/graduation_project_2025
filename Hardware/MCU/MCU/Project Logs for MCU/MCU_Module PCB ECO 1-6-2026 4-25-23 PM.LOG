@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=MCU_Src Member=R21
+Removed Member From Class: ClassName=MCU_Src Member=R22
+Removed Member From Class: ClassName=MCU_Src Member=U7
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Add Net: Net with name "VIN" already exists

@@ -25,7 +25,7 @@ extern esp_mqtt_client_handle_t global_mqtt_client;
 static const char *TAG = "APP";
 
 /* ====== CONFIG ====== */
-#define APP_PERIOD_MS     20000   // 20s
+#define APP_PERIOD_MS     4000   // 20s
 #define CSV_PATH          "/sdcard/data.csv"
 
 static void csv_create_if_needed(void)
@@ -138,7 +138,7 @@ static void mqtt_task(void *arg)
 
         esp_mqtt_client_publish(
             global_mqtt_client,
-            "data/all",
+            "data/value",
             json,
             0,
             1,
@@ -164,12 +164,12 @@ void app_main(void)
 
     /* Sensors */
     sds011_start_task();
-    pms7003_start_task();
-    ina226_start_task();
+    // pms7003_start_task();
+    // ina226_start_task();
     bme280_start_task();
 
     /* SD card */
-    sdcard_init();
+    // sdcard_init();
 
     /* Application tasks */
     xTaskCreate(sdcard_task, "sdcard_task", 4096, NULL, 5, NULL);

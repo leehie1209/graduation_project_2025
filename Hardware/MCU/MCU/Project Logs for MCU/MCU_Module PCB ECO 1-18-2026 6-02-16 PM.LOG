@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V_LDO Pin=J2-2
+Added Pin To Net: NetName=5V_S Pin=J2-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=MCU Member=Component C2 104
+Added Member To Class: ClassName=MCU Member=Component C4 104
+Added Member To Class: ClassName=MCU Member=Component C6 104
+Added Member To Class: ClassName=MCU Member=Component C8 104
+Added Member To Class: ClassName=MCU_Src Member=Component C12 104
+Added Member To Class: ClassName=MCU_Src Member=Component C14 107
+Added Member To Class: ClassName=MCU_Src Member=Component C16 104
+Added Member To Class: ClassName=MCU_Src Member=Component C18 104
+Added Member To Class: ClassName=MCU_Src Member=Component C19 104

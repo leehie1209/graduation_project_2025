@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=MCU_Src Member=C8
+Change Component Footprint: Designator=C11 Old Footprint=CAP_0805 New Footprint=CAP_0603
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=MCU Member=Component C1 104
+Added Member To Class: ClassName=MCU Member=Component C6 104
+Added Member To Class: ClassName=MCU Member=Component C7 104
+Added Member To Class: ClassName=MCU Member=Component C9 104
+Added Member To Class: ClassName=MCU_Src Member=Component C12 104
+Added Member To Class: ClassName=MCU_Src Member=Component C13 104
+Added Member To Class: ClassName=MCU_Src Member=Component C16 104

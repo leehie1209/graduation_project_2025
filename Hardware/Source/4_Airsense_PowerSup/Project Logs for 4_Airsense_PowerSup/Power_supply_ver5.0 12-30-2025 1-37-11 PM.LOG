@@ -1,0 +1,44 @@
+Change Component Designator: OldDesignator=C20 NewDesignator=C25
+Change Component Designator: OldDesignator=C21 NewDesignator=C26
+Change Component Designator: OldDesignator=C22 NewDesignator=C27
+Change Component Designator: OldDesignator=C25 NewDesignator=C20
+Change Component Designator: OldDesignator=C26 NewDesignator=C21
+Change Component Designator: OldDesignator=C27 NewDesignator=C22
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED2
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Change Component Designator: OldDesignator=R18 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R18
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP11
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Added Component: Designator=TP2(TP1)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP1)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP12(TP1)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP13(TP1)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_LOAD Pin=TP2-1
+Added Pin To Net: NetName=5V_PS Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP12-1
+Added Pin To Net: NetName=GND Pin=TP13-1
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED2_2
+Added Member To Class: ClassName=Power_supply Member=Component TP10 TP
+Added Member To Class: ClassName=Power_supply Member=Component TP11 TP
+Added Member To Class: ClassName=Power_supply Member=Component TP12 TP
+Added Member To Class: ClassName=Power_supply Member=Component TP13 TP
