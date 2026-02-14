@@ -1,0 +1,76 @@
+Change Component Comment : Designator=L2 Old Comment=10uH New Comment=22uH
+Change Component Comment : Designator=TP3 Old Comment=VIN New Comment=5V
+Change Component Designator: OldDesignator=P4 NewDesignator=P8
+Change Component Designator: OldDesignator=P5 NewDesignator=P9
+Change Component Designator: OldDesignator=P6 NewDesignator=P10
+Added Component: Designator=P4(HDR2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_LOAD Pin=P4-1
+Added Pin To Net: NetName=V_LOAD Pin=P4-2
+Added Pin To Net: NetName=5V_PS Pin=P5-1
+Added Pin To Net: NetName=5V_PS Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=Power_supply Member=Component C20 100nF
+Added Member To Class: ClassName=Power_supply Member=Component C22 100uF
+Added Member To Class: ClassName=Power_supply Member=Component C26 100nF
+Added Member To Class: ClassName=Power_supply Member=Component LED2 LED
+Added Member To Class: ClassName=Power_supply Member=Component P6 Header2
+Added Member To Class: ClassName=Power_supply Member=Component P7 Header2
+Added Member To Class: ClassName=Power_supply Member=Component P8 TP
+Added Member To Class: ClassName=Power_supply Member=Component P9 TP
+Added Member To Class: ClassName=Power_supply Member=Component P10 TP
+Added Member To Class: ClassName=Power_supply Member=Component R24 220
+Added Member To Class: ClassName=Power_supply Member=Component TP2 VIN
+Added Member To Class: ClassName=Power_supply Member=Component TP3 5V
+Added Member To Class: ClassName=Power_supply Member=Component TP4 TP
+Added Member To Class: ClassName=Power_supply Member=Component TP5 HIDRV
+Added Member To Class: ClassName=Power_supply Member=Component TP6 PH
+Added Member To Class: ClassName=Power_supply Member=Component TP7 LODRV
+Added Member To Class: ClassName=Power_supply Member=Component TP8 TP
+Added Member To Class: ClassName=Power_supply Member=Component TP9 TP
+Added Member To Class: ClassName=Power_supply Member=Component U4 LM1117

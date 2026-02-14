@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=V_LOAD Pin=TP2-1
+Removed Pin From Net: NetName=5V_PS Pin=TP3-1
+Removed Pin From Net: NetName=GND Pin=TP12-1
+Removed Pin From Net: NetName=GND Pin=TP13-1
+Removed Member From Class: ClassName=Power_supply Member=TP2
+Removed Member From Class: ClassName=Power_supply Member=TP3
+Removed Member From Class: ClassName=Power_supply Member=TP12
+Removed Member From Class: ClassName=Power_supply Member=TP13
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=Power_supply Member=Component P1 Header 2
+Added Member To Class: ClassName=Power_supply Member=Component P2 Header 2
+Added Member To Class: ClassName=Power_supply Member=Component P3 Header 2
+Added Member To Class: ClassName=Power_supply Member=Component P4 BIG_Header 2
+Added Member To Class: ClassName=Power_supply Member=Component P5 Header 3X2
+Added Member To Class: ClassName=Power_supply Member=Component P6 Header 2X2

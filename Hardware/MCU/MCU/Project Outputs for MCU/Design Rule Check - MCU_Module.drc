@@ -1,38 +1,44 @@
 Protel Design System Design Rule Check
 PCB File : D:\HUST\20251-Thelastdance\Graduation\Hardware\MCU\MCU\MCU_Module.PcbDoc
-Date     : 1/18/2026
-Time     : 6:15:26 PM
+Date     : 1/29/2026
+Time     : 2:52:17 PM
 
 WARNING: 3 Net Ties failed verification
    SMT Small Component J7-Jumper2 (2480mil,120mil) on Top Layer, SMT Small Component J7-Jumper2 (2480mil,120mil) on Top Layer, has isolated copper
    SMT Small Component J2-Jumper2 (103mil,1098.274mil) on Top Layer, SMT Small Component J2-Jumper2 (103mil,1098.274mil) on Top Layer, has isolated copper
    SMT Small Component J1-Jumper2 (1290mil,380mil) on Top Layer, SMT Small Component J1-Jumper2 (1290mil,380mil) on Top Layer, has isolated copper
 
-Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
-Rule Violations :0
+Processing Rule : Clearance Constraint (Gap=0mil) (All),(All)
+   Violation between Clearance Constraint: (9.185mil < 10mil) Between Arc (276.291mil,1999.528mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-A6(245mil,1989.842mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-A7(245mil,1970.158mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-A7(245mil,1970.158mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-A8(245mil,1930.787mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-A8(245mil,1930.787mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-B4_A9(245mil,1885.512mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-B6(245mil,1950.472mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-B7(245mil,2009.528mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-B7(245mil,2009.528mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (7.994mil < 8mil) Between Pad P2-B8(245mil,2048.898mil) on Top Layer And Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (8.899mil < 10mil) Between Region (0 hole(s)) Top Layer And Track (245mil,2009.528mil)(276.291mil,2009.528mil) on Top Layer 
+Rule Violations :12
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad P1-(1716.693mil,940mil) on Multi-Layer And Polygon Region (30 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad P1-(1716.693mil,940mil) on Multi-Layer And Polygon Region (8 hole(s)) Top Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Pad P1-(1716.693mil,940mil) on Multi-Layer And Polygon Region (27 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Pad P1-(1716.693mil,940mil) on Multi-Layer And Polygon Region (9 hole(s)) Top Layer Location : [X = 0mil][Y = 0mil]
    Violation between Short-Circuit Constraint: Between Pad P1-(2010mil,940mil) on Multi-Layer And Polygon Region (13 hole(s)) Top Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad P1-(2010mil,940mil) on Multi-Layer And Polygon Region (30 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad P2-(200.118mil,1866.22mil) on Multi-Layer And Polygon Region (170 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad P2-(200.118mil,2093.78mil) on Multi-Layer And Polygon Region (170 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Pad P1-(2010mil,940mil) on Multi-Layer And Polygon Region (27 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Pad P2-(200.118mil,1866.22mil) on Multi-Layer And Polygon Region (173 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
+   Violation between Short-Circuit Constraint: Between Pad P2-(200.118mil,2093.78mil) on Multi-Layer And Polygon Region (173 hole(s)) Bottom Layer Location : [X = 0mil][Y = 0mil]
 Rule Violations :6
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C17-1(3795mil,579.996mil) on Top Layer And Pad C18-1(4025mil,579.996mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Track (3650mil,520mil)(3650.001mil,520mil) on Top Layer And Pad C17-1(3795mil,579.996mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net 5V_LDO Between Pad C17-2(3795mil,639.996mil) on Top Layer And Pad C18-2(4025mil,639.996mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net 5V_LDO Between Pad IDC2-10(600mil,440mil) on Multi-Layer And Pad C17-2(3795mil,639.996mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net D- Between Pad P2-B6(245mil,1950.472mil) on Top Layer And Pad P2-A6(245mil,1989.842mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net D+ Between Pad P2-A7(245mil,1970.158mil) on Top Layer And Pad P2-B7(245mil,2009.528mil) on Top Layer 
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=12mil) (Max=50mil) (Preferred=15mil) (All)
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=15mil) (All)
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
@@ -63,6 +69,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 12
+Violations Detected : 18
 Waived Violations : 0
 Time Elapsed        : 00:00:00

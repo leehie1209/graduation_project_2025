@@ -1,0 +1,19 @@
+Added Component: Designator=U1(VQFN-16)
+Added Pin To Net: NetName=NetC5_2 Pin=U1-1
+Added Pin To Net: NetName=MPPSET Pin=U1-2
+Added Pin To Net: NetName=NetLED1_3 Pin=U1-3
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-4
+Added Pin To Net: NetName=NetLED1_4 Pin=U1-5
+Added Pin To Net: NetName=TERM_EN Pin=U1-6
+Added Pin To Net: NetName=TERM_EN Pin=U1-7
+Added Pin To Net: NetName=NetC15_1 Pin=U1-8
+Added Pin To Net: NetName=SRN Pin=U1-9
+Added Pin To Net: NetName=SRP Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetC10_2 Pin=U1-12
+Added Pin To Net: NetName=LODRV Pin=U1-13
+Added Pin To Net: NetName=PH Pin=U1-14
+Added Pin To Net: NetName=HIDRV Pin=U1-15
+Added Pin To Net: NetName=BTST Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Member To Class: ClassName=TI_EVM Member=Component U1 BQ24650

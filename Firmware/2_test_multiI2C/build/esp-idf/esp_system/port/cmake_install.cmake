@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/build/esp-idf/esp_system/port/soc/esp32/cmake_install.cmake")
+  include("D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/build/esp-idf/esp_system/port/soc/esp32/cmake_install.cmake")
 endif()
 

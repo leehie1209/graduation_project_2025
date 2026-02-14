@@ -10,18 +10,18 @@ if(NOT EXISTS "C:/user/esp-idf/components/bootloader/subproject")
   file(MAKE_DIRECTORY "C:/user/esp-idf/components/bootloader/subproject")
 endif()
 file(MAKE_DIRECTORY
-  "D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/build/bootloader"
-  "D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/build/bootloader-prefix"
-  "D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/build/bootloader-prefix/tmp"
-  "D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/build/bootloader-prefix/src/bootloader-stamp"
-  "D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/build/bootloader-prefix/src"
-  "D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/build/bootloader-prefix/src/bootloader-stamp"
+  "D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/build/bootloader"
+  "D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/build/bootloader-prefix"
+  "D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/build/bootloader-prefix/tmp"
+  "D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/build/bootloader-prefix/src/bootloader-stamp"
+  "D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/build/bootloader-prefix/src"
+  "D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

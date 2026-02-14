@@ -117,6 +117,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SZYBVNGK
 
+[Document5]
+DocumentPath=MCU_ver5.0.1_ger_F.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MCU\Design Rule Check - MCU_Module.html
 DItemRevisionGUID=
@@ -1272,6 +1289,7 @@ Net3=NetName=+5V1|NetColor=$006E6EFF
 Net4=NetName=+5V2|NetColor=$006E6EFF
 Net5=NetName=3.3V|NetColor=$00FFFF6E
 Net6=NetName=3V3 - 5V|NetColor=$00FF6E6E
+Net7=NetName=Button02|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

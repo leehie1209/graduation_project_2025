@@ -1,0 +1,127 @@
+Change Component Footprint: Designator=D1 Old Footprint=DIO-SMD-123 New Footprint=SMA
+Change Component Comment : Designator=C3 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=C4 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=R4 Old Comment=0.05 New Comment=0.05R
+Change Component Comment : Designator=C12 Old Comment=4.7uF New Comment=4.7uF 50V
+Change Component Comment : Designator=C10 Old Comment=10uF New Comment=10uF 50V
+Change Component Comment : Designator=C11 Old Comment=10uF New Comment=10uF 50V
+Change Component Comment : Designator=R5 Old Comment=30.1k New Comment=10k
+Change Component Comment : Designator=C32 Old Comment=100uF New Comment=100nF
+Change Component Comment : Designator=C33 Old Comment=100uF New Comment=100nF
+Change Component Comment : Designator=C13 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C18 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C22 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C23 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C27 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C29 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C30 Old Comment=104 New Comment=100nF
+Change Component Comment : Designator=C1 Old Comment=106 New Comment=10uF
+Change Component Comment : Designator=C2 Old Comment=106 New Comment=10uF
+Change Component Comment : Designator=C24 Old Comment=107 New Comment=100uF
+Change Component Comment : Designator=C25 Old Comment=107 New Comment=100uF
+Change Component Comment : Designator=Q2 Old Comment=MOSFET-N-8pin New Comment=AON6508
+Change Component Comment : Designator=Q3 Old Comment=MOSFET-N-8pin New Comment=AON6508
+Change Component Description : Designator=Q1 Old Description= New Description=MFET-ChP
+Change Component Description : Designator=Q2 Old Description= New Description=MFET-CHP
+Change Component Description : Designator=Q3 Old Description= New Description=MFET-CHP
+Change Component Description : Designator=C19 Old Description=Capacitor 0805 New Description=C 0805
+Change Component Description : Designator=C20 Old Description=Capacitor 0805 New Description=C 0805
+Change Component Description : Designator=C26 Old Description=Capacitor 0805 New Description=C 0805
+Change Component Description : Designator=C28 Old Description=Capacitor 0805 New Description=C 0805
+Change Component Description : Designator=C3 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C4 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C5 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C6 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C7 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C8 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C9 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C13 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C14 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C15 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C16 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C17 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C18 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C27 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C29 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C30 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C31 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C32 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C33 Old Description=Capacitor New Description=C 0805
+Change Component Description : Designator=C10 Old Description=Capacitor New Description=C 1206
+Change Component Description : Designator=C11 Old Description=Capacitor New Description=C 1206
+Change Component Description : Designator=C12 Old Description=Capacitor New Description=C 1206
+Change Component Description : Designator=C1 Old Description=Capacitor New Description=C 3216
+Change Component Description : Designator=C2 Old Description=Capacitor New Description=C 3216
+Change Component Description : Designator=C22 Old Description=Capacitor SMD 0603 New Description=C 0805
+Change Component Description : Designator=C23 Old Description=Capacitor SMD 0603 New Description=C 0805
+Change Component Description : Designator=C21 Old Description=https://linhkien.cxtvn.com/8778-tu-khong-phan-cuc-1206.html New Description=C 1206
+Change Component Description : Designator=C24 Old Description=Polazied Tantalum Capacitor New Description=C Tan 7343
+Change Component Description : Designator=C25 Old Description=Polazied Tantalum Capacitor New Description=C Tan 7343
+Change Component Description : Designator=R1 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R2 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R3 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R5 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R6 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R7 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R16 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R17 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R18 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R25 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R26 Old Description=Resistor - SMD 0805 New Description=R 0805
+Change Component Description : Designator=R8 Old Description=Resistor - SMD 0805 New Description=R 0805 1%
+Change Component Description : Designator=R9 Old Description=Resistor - SMD 0805 New Description=R 0805 1%
+Change Component Description : Designator=R11 Old Description=Resistor - SMD 0805 New Description=R 0805 1%
+Change Component Description : Designator=R12 Old Description=Resistor - SMD 0805 New Description=R 0805 1%
+Change Component Description : Designator=R13 Old Description=Resistor - SMD 0805 New Description=R 0805 1%
+Change Component Description : Designator=R10 Old Description=Resistor - SMD 2512 New Description=R 2512
+Change Component Description : Designator=R4 Old Description=Resistor - SMD 2512 New Description=R 2512 1%
+Change Component Description : Designator=R21 Old Description=Resistor SMD 0603 New Description=R 0805
+Change Component Description : Designator=R44 Old Description=Resistor SMD 0603 New Description=R 0805
+Change Component Description : Designator=R15 Old Description=Resistor SMD 0805 New Description=R 0805
+Change Component Description : Designator=R23 Old Description=Resistor SMD 0805 New Description=R 0805
+Change Component Description : Designator=R24 Old Description=Resistor SMD 0805 New Description=R 0805
+Change Component Description : Designator=R19 Old Description=Resistor SMD 0805 New Description=R 0805 1%
+Change Component Description : Designator=R20 Old Description=Resistor SMD 0805 New Description=R 0805 1%
+Change Component Description : Designator=R22 Old Description=Resistor SMD 0805 New Description=R 0805 1%
+Change Component Description : Designator=R27 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R28 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R29 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R30 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R31 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R32 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R33 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R34 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R35 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R36 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R37 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R38 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R39 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R40 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R41 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R42 Old Description=Resistor SMD New Description=R 0805
+Change Component Description : Designator=R14 Old Description=Resistor SMD New Description=R 2512 1%
+Change Component Kind : Designator=P15 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P17 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P14 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P12 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P13 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P18 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=VIT3 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=VIT4 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=VIT2 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P19 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=VIT1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P11 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P3 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P4 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P2 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P1 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P5 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P9 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P10 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P8 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P6 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=P7 Old Kind=Standard New Kind=Standard (No BOM)
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=Default

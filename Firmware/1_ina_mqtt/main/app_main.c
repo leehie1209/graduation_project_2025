@@ -165,13 +165,13 @@ void app_main(void)
     /* Sensors */
     sds011_start_task();
     // pms7003_start_task();
-    // ina226_start_task();
+    ina226_start_task();
     bme280_start_task();
 
     /* SD card */
     // sdcard_init();
 
     /* Application tasks */
-    xTaskCreate(sdcard_task, "sdcard_task", 4096, NULL, 5, NULL);
+    // xTaskCreate(sdcard_task, "sdcard_task", 4096, NULL, 5, NULL);
     xTaskCreate(mqtt_task,   "mqtt_task",   4096, NULL, 5, NULL);
 }

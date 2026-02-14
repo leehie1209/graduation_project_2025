@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: D:\HUST\20251-Thelastdance\Graduation\Firmware\Test_multiI2C\build\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: D:\HUST\20251-Thelastdance\Graduation\Firmware\2_test_multiI2C\build\esp-idf\esp_system\ld\sections.ld.in */
 
 /*
 

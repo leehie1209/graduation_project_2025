@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Power_supply Member=C?
+Added Component: Designator=HD?(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=Power_supply Member=Component HD? Header 2

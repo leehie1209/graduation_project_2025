@@ -5,29 +5,36 @@
 #include "i2c/bme280.h"
 #include "i2c/i2c_master.h"
 #include "i2c/ina226.h"
-void bme280_task(void *pv)
+void sensor_task(void *pv)
 {
     float t, h, p;
-    bme280_init();
-
-    while (1)
-    {
-        bme280_read_data(&t, &h, &p);
-        printf("[BME280] T=%.2f C, H=%.1f %%, P=%.1f hPa\n", t, h, p);
-        vTaskDelay(2000 / portTICK_PERIOD_MS);
-    }
-}
-
-void ina226_task(void *pv)
-{
     float v, i;
+
+    bme280_init();
     ina226_init();
 
+    TickType_t last_bme = 0;
+    TickType_t last_ina = 0;
+
     while (1)
     {
-        ina226_read(&v, &i);
-        printf("[INA226] V=%.3f V, I=%.3f A\n", v, i);
-        vTaskDelay(10000 / portTICK_PERIOD_MS);
+        TickType_t now = xTaskGetTickCount();
+
+        if (now - last_bme >= pdMS_TO_TICKS(10010))
+        {
+            bme280_read_data(&t, &h, &p);
+            printf("[BME280] T=%.2f C, H=%.1f %%, P=%.1f hPa\n", t, h, p);
+            last_bme = now;
+        }
+
+        if (now - last_ina >= pdMS_TO_TICKS(1000))
+        {
+            ina226_read(&v, &i);
+            printf("[INA226] V=%.3f V, I=%.3f A\n", v, i);
+            last_ina = now;
+        }
+
+        vTaskDelay(pdMS_TO_TICKS(100));
     }
 }
 
@@ -35,6 +42,5 @@ void app_main(void)
 {
     i2c_master_init();
 
-    xTaskCreate(bme280_task, "bme280_task", 4096, NULL, 5, NULL);
-    xTaskCreate(ina226_task, "ina226_task", 4096, NULL, 5, NULL);
+    xTaskCreate(sensor_task, "sensor_task", 4096, NULL, 5, NULL);
 }

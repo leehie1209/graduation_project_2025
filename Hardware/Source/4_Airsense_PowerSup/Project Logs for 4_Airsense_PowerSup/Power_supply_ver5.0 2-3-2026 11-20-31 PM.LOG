@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=V_O_FUSE Pin=J1-1
+Removed Pin From Net: NetName=V_LOAD Pin=J1-2
+Removed Member From Class: ClassName=Power_supply Member=J3
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Added Pin To Net: NetName=V_O_FUSE Pin=R11-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

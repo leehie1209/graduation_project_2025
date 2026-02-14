@@ -1,0 +1,13 @@
+Change Component Comment : Designator=C20 Old Comment=100nF New Comment=0.1uF
+Change Component Comment : Designator=C21 Old Comment=100nF New Comment=0.1uF
+Change Component Comment : Designator=C11 Old Comment=104 New Comment=0.1uF
+Change Component Comment : Designator=C15 Old Comment=104 New Comment=0.1uF
+Change Component Comment : Designator=C2 Old Comment=106 New Comment=10uF 3216
+Change Component Comment : Designator=C3 Old Comment=106 New Comment=10uF 3216
+Change Component Comment : Designator=P9 Old Comment=TP New Comment=5V_LDO
+Change Component Comment : Designator=P8 Old Comment=TP New Comment=5V_P
+Change Component Comment : Designator=TP1 Old Comment=TP New Comment=VOUT
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

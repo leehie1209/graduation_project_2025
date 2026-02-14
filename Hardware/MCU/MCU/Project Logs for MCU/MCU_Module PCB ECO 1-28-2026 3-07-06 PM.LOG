@@ -1,0 +1,20 @@
+Change Component Comment : Designator=3 Old Comment=5V_L New Comment=5V_LDO
+Change Component Designator: OldDesignator=-1 NewDesignator=TP5
+Change Component Designator: OldDesignator=1 NewDesignator=TP1
+Change Component Designator: OldDesignator=2 NewDesignator=TP2
+Change Component Designator: OldDesignator=3 NewDesignator=TP3
+Change Component Designator: OldDesignator=4 NewDesignator=TP4
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Added Pin To Net: NetName=5V_S Pin=J1-1
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=5V_S New Net Name=VIN
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR7_1
+Added Rule: Name=Schematic Supply Nets_7

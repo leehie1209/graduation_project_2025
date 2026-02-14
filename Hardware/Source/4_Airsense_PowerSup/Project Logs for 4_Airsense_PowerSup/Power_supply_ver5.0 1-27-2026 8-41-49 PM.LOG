@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP2
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP9
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1

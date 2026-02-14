@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=P10 NewDesignator=P12
+Added Component: Designator=P10(Testpoint 50ml)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=P11(Testpoint 50ml)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P11-1
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=Power_supply Member=Component P11 GND
+Added Member To Class: ClassName=Power_supply Member=Component P12 3V3

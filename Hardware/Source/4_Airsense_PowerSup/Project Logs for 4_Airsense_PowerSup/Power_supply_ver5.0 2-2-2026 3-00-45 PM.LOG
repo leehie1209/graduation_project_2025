@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=V_LOAD Pin=C21-2
+Removed Pin From Net: NetName=5V_PS Pin=C25-2
+Removed Pin From Net: NetName=V_LOAD Pin=U3-3
+Removed Pin From Net: NetName=5V_PS Pin=U4-3
+Added Component: Designator=J2(JUMPER2)
+Added Component: Designator=J3(JUMPER2)
+Added Pin To Net: NetName=V_LOAD Pin=J2-1
+Added Pin To Net: NetName=5V_PS Pin=J3-1
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=J2-2
+Added Pin To Net: NetName=NetC21_2 Pin=U3-3
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=J3-2
+Added Pin To Net: NetName=NetC25_2 Pin=U4-3
+Added Net: Name=NetC25_2
+Added Member To Class: ClassName=Power_supply Member=Component J2 Jumper2
+Added Member To Class: ClassName=Power_supply Member=Component J3 Jumper2

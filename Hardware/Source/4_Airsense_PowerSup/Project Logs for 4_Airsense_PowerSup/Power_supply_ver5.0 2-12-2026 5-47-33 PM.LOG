@@ -1,0 +1,10 @@
+Change Component Comment : Designator=R29 Old Comment=68.1k New Comment=100k
+Change Component Comment : Designator=R26 Old Comment=220 New Comment=200R
+Change Component Comment : Designator=R30 Old Comment=220 New Comment=200R
+Change Component Comment : Designator=R17 Old Comment=499k New Comment=249k
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=Power_supply Member=Component J1 Jumper2
+Added Member To Class: ClassName=Power_supply Member=Component J2 Jumper2

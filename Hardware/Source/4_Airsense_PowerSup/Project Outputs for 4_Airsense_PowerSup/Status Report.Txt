@@ -1,0 +1,25 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [4_Airsense_PowerSup.PrjPcb]
+   Generated File[Power_supply_ver5.0.1_Copper_Signal_Top.gbr]
+   Generated File[Power_supply_ver5.0.1_Copper_Signal_Bot.gbr]
+   Generated File[Power_supply_ver5.0.1_Pads_Bot.gbr]
+   Generated File[Power_supply_ver5.0.1_Pads_Top.gbr]
+   Generated File[Power_supply_ver5.0.1_Legend_Top.gbr]
+   Generated File[Power_supply_ver5.0.1_Legend_Bot.gbr]
+   Generated File[Power_supply_ver5.0.1_Soldermask_Top.gbr]
+   Generated File[Power_supply_ver5.0.1_Soldermask_Bot.gbr]
+   Generated File[Power_supply_ver5.0.1_Paste_Top.gbr]
+   Generated File[Power_supply_ver5.0.1_Paste_Bot.gbr]
+   Generated File[Power_supply_ver5.0.1_Keep-out.gbr]
+   Generated File[Power_supply_ver5.0.1_Profile.gbr]
+   Generated File[Power_supply_ver5.0.1_NPTH_Drill.gbr]
+   Generated File[Power_supply_ver5.0.1_PTH_Drill.gbr]
+   Generated File[Power_supply_ver5.0.1.EXTREP]
+   Generated File[Power_supply_ver5.0.1.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 5:00:00 PM On 2/4/2026

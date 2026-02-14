@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=V_BATT Pin=P5-1
+Removed Pin From Net: NetName=V_BATT Pin=P5-3
+Removed Pin From Net: NetName=V_BATT Pin=R11-2
+Added Pin To Net: NetName=V_OUT Pin=P5-1
+Added Pin To Net: NetName=V_OUT Pin=P5-3
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Change Net Name : Old Net Name=V_BATT New Net Name=V_O_FUSE
+Added Pin To Net: NetName=V_BATT Pin=R11-2
+Added Net: Name=V_BATT
+Added Member To Class: ClassName=Power_supply Member=Component R11 0.05R
+Added Member To Class: ClassName=Power_supply Member=Component R12 10k
+Added Member To Class: ClassName=Power_supply Member=Component R16 10k
+Added Member To Class: ClassName=Power_supply Member=Component R18 10k
+Added Member To Class: ClassName=Power_supply Member=Component R20 10k
+Added Member To Class: ClassName=Power_supply Member=Component R22 10k
+Added Member To Class: ClassName=Power_supply Member=Component R23 100k
+Added Member To Class: ClassName=Power_supply Member=Component R24 249k
+Added Member To Class: ClassName=Power_supply Member=Component U2 INA226
+Added Member To Class: ClassName=Power_supply Member=Component U3 MP1584

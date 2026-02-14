@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=V_IN Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Member From Class: ClassName=Power_supply Member=P12
+Change Component Designator: OldDesignator=HD? NewDesignator=H1
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Change Component Designator: OldDesignator=P7 NewDesignator=P6
+Change Component Designator: OldDesignator=P8 NewDesignator=P7
+Change Component Designator: OldDesignator=P9 NewDesignator=P8
+Change Component Designator: OldDesignator=P10 NewDesignator=P9
+Change Component Designator: OldDesignator=P11 NewDesignator=P10
+Change Component Designator: OldDesignator=P12 NewDesignator=P11
+Added Component: Designator=H2(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_IN Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=V_BATT Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-2
+Add Pin To Net: Unknown Pin: Pin VIT1-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT2-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT3-VIT1
+Add Pin To Net: Unknown Pin: Pin VIT4-VIT1
+Added Member To Class: ClassName=Power_supply Member=Component H2 Header 2

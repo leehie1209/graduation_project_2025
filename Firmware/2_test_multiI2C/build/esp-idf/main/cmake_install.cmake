@@ -1,4 +1,4 @@
-# Install script for directory: D:/HUST/20251-Thelastdance/Graduation/Firmware/Test_multiI2C/main
+# Install script for directory: D:/HUST/20251-Thelastdance/Graduation/Firmware/2_test_multiI2C/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
